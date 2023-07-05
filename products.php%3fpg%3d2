@@ -1,0 +1,168 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- InstanceBegin template="/Templates/BigBrainzTemplate.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Big Brainz' Products</title>
+<!-- InstanceEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="/Templates/BigBrainzStyle.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/javascript" src="/Assets/Scripts/PopUpWindow.txt"></script>
+
+<!-- FlashObject embed by Geoff Stearns geoff@deconcept.com  -->
+<script type="text/javascript" src="/Assets/Scripts/flashobject.js"></script>
+
+<!-- InstanceBeginEditable name="Desciption and Keywords" -->
+
+<!-- InstanceEndEditable -->
+
+</head>
+<body>
+
+<div align="center">
+  </div>
+<table width="750" border="0" align="center" cellpadding="0" cellspacing="0">
+  
+  <tr>
+    <td colspan="2" align="center" valign="middle"><div align="left">
+      <table width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="145"><a href="/index.php"><img src="/Assets/MultiplicationTables/MultiplicationTable.jpg" alt="Home" width="145" height="60" border="0"></a></td>
+          <td valign="middle"><div align="center"> <!-- InstanceBeginEditable name=" " -->     <!-- InstanceEndEditable --> </div></td>
+        </tr>
+      </table>
+    </div></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="ThinCell"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr background="/Assets/Images/NavBarC_02.jpg">
+          <td width="10" background="/Assets/Images/NavBarC_02.jpg"><img src="/Assets/Images/NavBarC_01.jpg" width="10" height="25"></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/index.php" class="dark">Home</a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/Support.php" class="dark">Support</a></div></td>
+		  <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/orderstatus.php" class="dark">My Orders </a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/Teachers.php" class="dark">Teachers</a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/HowToPlay.html" class="dark">How To Play </a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/Reviews.html" class="dark">Reviews </a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><img src="/images/clearpixel.gif" width="150" height="20"></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/cart.php" class="dark">Checkout</a></div>          </td>
+          <td width="10" background="/Assets/Images/NavBarC_02.jpg"><img src="/Assets/Images/NavBarC_04.jpg" width="13" height="25"></td>
+        </tr>
+      </table>    </td>
+  </tr>
+  <tr>
+    <td height="50%" colspan="2" align="center" valign="top" class="tinytext"><span class="white">-</span><br>
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="100" align="center" valign="middle"><!-- InstanceBeginEditable name="Edit Region 1" -->
+
+      <div align="center">
+        <table width="100%" height="97%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><div align="center">
+      <table border="0" cellspacing="0" cellpadding="1" width="96%" bgcolor="" align="center">
+        <tr> 
+          <td colspan="3" width="100%">
+<script language="javascript" type="text/javascript">
+<!--
+var aPC = new Array();var isW3 = (document.getElementById&&true);
+var tax=0;
+function dummyfunc(){};
+function pricechecker(i){
+if(i!='')return(aPC[i]);return(0);}
+function enterValue(x){
+alert('Please enter a value where indicated.');
+x.focus();return(false);}
+function chooseOption(x){
+alert('Please choose from the available product options.');
+x.focus();return(false);}
+function dataLimit(x){
+alert('Please enter a maximum of 255 chars in the field indicated.');
+x.focus();return(false);}
+function formatprice(i, currcode, currformat){
+var pTemplate='$0.00';
+if(currcode!='') pTemplate=' 0.00' + (currcode!=' '?'<strong>'+currcode+'<\/strong>':'');if(currcode==' JPY')i = Math.round(i).toString();
+else if(i==Math.round(i))i=i.toString()+".00";
+else if(i*10.0==Math.round(i*10.0))i=i.toString()+"0";
+else if(i*100.0==Math.round(i*100.0))i=i.toString();
+if(currcode!="")pTemplate = currformat.toString().replace(/%s/,i.toString());else pTemplate = pTemplate.toString().replace(/\d[,.]*\d*/,i.toString());return(pTemplate);}
+function openEFWindow(id) {
+window.open('emailfriend.php?id='+id,'email_friend','menubar=no, scrollbars=no, width=400, height=400, directories=no,location=no,resizable=yes,status=no,toolbar=no')
+}
+
+//-->
+</script>		<table class="products" width="100%" border="0" cellspacing="0" cellpadding="6" bgcolor="">
+			  <tr>
+				<td class="prodnavigation" colspan="2" align="left"><strong><p class="prodnavigation"><a class="ectlink" href="categories.php">Home</a>  &raquo; All Products</p></strong></td>
+				<td align="right">&nbsp;<a class="ectlink" href="cart.php"><img src="images/checkout.gif" border="0" alt="Checkout" /></a></td>
+			  </tr>
+			  <tr>
+				<td align="left" colspan="3">
+				  <p><strong>The following discounts apply to all these products.</strong><br /><font color="#FF0000" size="1">
+				  Free USPS<br /></font></p>
+				</td>
+			  </tr>
+			  <tr>
+				<td colspan="3" align="center" class="pagenums"><p class="pagenums">				  <img src="images/clearpixel.gif" width="300" height="8" alt="" /></p></td>
+			  </tr>
+              <tr> 
+                <td width="26%" rowspan="3" align="center" class="prodimage">
+				&nbsp;                </td>
+				<td width="59%">
+<strong><div class="prodname">Timez Attack Elementary School Permanent</div></strong>                </td>
+				<td width="15%" align="right" valign="top">&nbsp;</td>
+			  </tr><script language="javascript" type="text/javascript">
+<!--
+function formvalidator0(theForm){
+return (true);
+}
+//-->
+</script>	<form method="post" name="tForm0" action="cart.php" onsubmit="return formvalidator0(this)">
+			  <tr>
+			    <td colspan="2"><div class="proddescription">Includes fixes, updates, and support--but not upgrades.</div></td>
+			  </tr>
+			  <tr>
+				<td width="59%" align="center"><div class="prodprice"><strong>Price:</strong> <span class="price" id="pricediv0" name="pricediv0">$1195.00</span> </div>                </td>
+			    <td align="right" valign="bottom"><input type="hidden" name="id" value="17" />
+<input type="hidden" name="mode" value="add" />
+<input type="hidden" name="frompage" value="/products.php?pg=2" />
+<input type='image' src='/Assets/Images/BuyBlue_100.jpg' border='0' alt='Buy' /></td>
+			  </tr>
+			</form>
+<tr><td colspan="3" class="prodseparator"><hr class="prodseparator" width="70%" align="center"></td></tr>			  <tr>
+				<td colspan="3" align="center" class="pagenums"><p class="pagenums"><a class="ectlink" href="products.php"><strong><font face="Verdana">&laquo;</font></strong></a> <a class="ectlink" href="products.php">Previous</a> | <a class="ectlink" href="products.php">1</a> | <span class="currpage">2</span> |  Next <strong><font face="Verdana">&raquo;</font></strong><br />
+				  <img src="images/clearpixel.gif" width="300" height="1" alt="" /></p></td>
+			  </tr>
+			</table>		  </td>
+        </tr>
+      </table>
+            </div></td>
+          </tr>
+        </table>
+      </div>
+    <!-- InstanceEndEditable --></td>
+          </tr>
+    </table>    </td>
+  </tr>
+  
+  <tr>
+    <td width="764"><table width="525" border="0" align="center" cellpadding="0" cellspacing="0" background="/Assets/Images/NavBarC_02.jpg">
+        <tr>
+          <td width="13" align="left" valign="top"><img src="/Assets/Images/NavBarC_01.jpg" width="13" height="25"></td>
+          <td valign="middle"><div align="center"><a href="/index.php" class="dark">About</a></div>          </td>
+          <td valign="middle"><div align="center"><a href="/Privacy.php" class="dark">Privacy</a></div>          </td>
+          <td valign="middle"><div align="center"><a href="/Guarantee.php" class="dark">Guarantee</a></div></td>
+          <td valign="middle"><div align="center"><a href="/Shipping.php" class="dark">Shipping</a></div>          </td>
+          <td valign="middle"><div align="center"><a href="/affiliate1.php" class="dark">Affiliate Program</a></div></td>
+          <td valign="middle"><div align="center"><a href="/LinkToUs/LinkToUs.html" class="dark">Link To Us</a></div></td>
+          <td valign="middle"><div align="center"><a href="/Contact.php" class="dark">Contact</a></div></td>
+          <td width="18" align="right" valign="top"><div align="right"><img src="/Assets/Images/NavBarC_04.jpg" width="13" height="25"></div>          </td>
+        </tr>
+      </table>    </td>
+    <td width="13">&nbsp;</td>
+  </tr>
+</table>
+<p align="center"><span class="BigBrainzStyle">&copy; 2006 Big Brainz, Inc. </span></p>
+<!-- InstanceBeginEditable name="EditRegion6" -->
+<div align="center"></div>
+<!-- InstanceEndEditable --><br>
+<img src="/Assets/Images/spacer.gif" width="10" height="1">
+</body>
+<!-- InstanceEnd --></html>

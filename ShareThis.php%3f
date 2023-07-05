@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/BigBrainzTemplate2011.dwt" codeOutsideHTMLIsLocked="false" --> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Big Brainz TimezAttack</title>
+<!-- InstanceEndEditable -->
+
+<link href="/Templates/BigBrainzStyle2011.css" rel="stylesheet" type="text/css">
+<!--[if !IE 7]><style type="text/css">#wrap {display:table;height:100%}</style><![endif]-->
+<script language="JavaScript" type="text/javascript" src="/Assets/Scripts/PopUpWindow.txt"></script>
+
+
+
+<!-- InstanceBeginEditable name="Desciption and Keywords" -->
+
+<!-- InstanceEndEditable -->
+
+</head> 
+<body> 
+  <div id="pagewrapper">
+	<div id="header"> 
+		<h1><a href="http://www.bigbrainz.com">Multiplication Games</a></h1> 
+		<ul id="topMenu"> 
+			<li><a href="/index.php">Products</a></li>
+			<li><a href="/Downloads.html">Downloads</a></li>
+			<li><a href="/Schools.php">Schools</a></li>
+			<li><a href="/Support.php">Support</a></li>
+			<li><a href=""></a></li>			
+			<li><a href="/blog/">Blog</a></li>
+			<li><a href="/cart.php">Checkout</a></li>
+		</ul> 
+	</div> 
+
+	<div id="main">
+		<div id="boxmain">
+<!-- InstanceBeginEditable name="Edit Region 1" -->
+      <div align="center">
+        <h1>Congratulations on passing off level 's</h1>
+        <p>How would you like to share your results?</p>
+        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" align = "center">
+          <tr class="BigBrainzStyle" align = "center">
+            <td align = "center">
+                <div align="center">               
+	                <!-- AddThis Button BEGIN -->
+					<div class="addthis_toolbox" addthis:url="http://bigbrainz.com/Free.php" addthis:title="Big Brainz' Timez Attack" addthis:description="The Ultimate Multiplication Tables Video Game">
+					   <div class = "custom_images">						   
+					       <a class="addthis_button_facebook"><img src="Assets/icons/facebook.png" width="128" height="128" alt="Share to Facebook" /></a>
+	                       <a class="addthis_button_twitter"><img src="Assets/icons/twitter.png" width="128" height="128" alt="Share to Twitter" /></a>
+	                       <a class="addthis_button_email"><img src="Assets/icons/email.png" width="128" height="128" alt="Share to email" /></a>
+	                       <a class="addthis_button_blogger"><img src="Assets/icons/blogger.png" width="128" height="128" alt="Share to Blogger" /></a><br />
+	                       <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=bigbrainz" class="addthis_button_compact">Share</a>
+	                   </div>
+                    </div>
+					<script type="text/javascript">
+					    var addthis_share = {
+					    	    templates: { twitter: 'Check out {{title}} @ {{url}}' }
+					    }
+					    var addthis_config = {services_compact:'facebook, twitter, email, blogger,more'};
+                    </script>   
+				    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=bigbrainz"></script>				    
+				    <!-- AddThis Button END -->
+                </div>
+            </td>
+          </tr>
+        </table>
+      </div>
+    <!-- InstanceEndEditable -->
+	  	</div>
+		
+	  <!-- InstanceBeginEditable name="EditRegion4" -->
+		<!-- InstanceEndEditable -->
+		
+		<!-- InstanceBeginEditable name="EditRegion5" -->
+		<!-- InstanceEndEditable -->
+	</div>
+	  
+</div>
+<div id="footer">
+		<ul id="bottomMenu"> 
+			<li><a href="/Contact.php">Contact</a></li> 
+			<li><a href="/Reviews.html">Reviews</a></li> 
+			<li><a href="/Articles/Multiplication-Games.html">Articles</a></li> 
+			
+			<li><a href="/LinkToUs/LinkToUs.html">Link<br /> 
+		    To Us</a></li> 
+			<li><a href="/affiliate1.php">Affiliates</a></li> 
+			<li><a href="/Shipping.php">Shipping</a></li> 
+			<li><a href="/Guarantee.php">Guarantee</a></li> 
+			<li><a href="/TermsOfUse.php">Terms <br />
+		    of Use</a></li> 
+			<li><a href="/Privacy.php">Privacy</a></li> 
+			<li><a href="/About.php">About</a></li> 
+			<li><a href="/orderstatus.php">My Orders </a></li>
+		</ul> 
+<div id="copyright">&copy; 2004 - 2011 Big Brainz, Inc.</div>
+</div>
+
+<!-- NEW Google Analytics Tracking Code-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-94233-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+
+<!-- InstanceEnd --></html>

@@ -1,0 +1,407 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><!-- InstanceBegin template="/Templates/BigBrainzTemplate.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Timez Attack Support</title>
+<!-- InstanceEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="/Templates/BigBrainzStyle.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/javascript" src="/Assets/Scripts/PopUpWindow.txt"></script>
+
+<!-- FlashObject embed by Geoff Stearns geoff@deconcept.com  -->
+<script type="text/javascript" src="/Assets/Scripts/flashobject.js"></script>
+
+<!-- InstanceBeginEditable name="Desciption and Keywords" --><!-- InstanceEndEditable -->
+
+</head>
+<body>
+
+<div align="center">
+  </div>
+<table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
+  
+  <tr>
+    <td colspan="2" align="center" valign="middle"><div align="left">
+      <table width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="145"><a href="/index.php"><img src="/Assets/MultiplicationTables/MultiplicationTable.jpg" alt="Home" width="145" height="60" border="0"></a></td>
+          <td valign="middle"><div align="center"> <!-- InstanceBeginEditable name=" " -->     <!-- InstanceEndEditable --> </div></td>
+        </tr>
+      </table>
+    </div></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="ThinCell"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr background="/Assets/Images/NavBarC_02.jpg">
+          <td width="10" background="/Assets/Images/NavBarC_02.jpg"><img src="/Assets/Images/NavBarC_01.jpg" width="10" height="25"></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/index.php" class="dark">Home</a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/Support.php" class="dark">Support</a></div></td>
+		  <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/orderstatus.php" class="dark">My Orders </a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/Teachers.php" class="dark">Teachers</a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/HowToPlay.html" class="dark">How To Play </a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/Reviews.html" class="dark">Reviews </a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><img src="/images/clearpixel.gif" width="150" height="20"></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/espanol/index.php" class="dark">Espa&ntilde;ol</a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/cart.php" class="dark">Checkout</a></div>          </td>
+          <td width="10" background="/Assets/Images/NavBarC_02.jpg"><img src="/Assets/Images/NavBarC_04.jpg" width="13" height="25"></td>
+        </tr>
+      </table>    </td>
+  </tr>
+  <tr>
+    <td height="50%" colspan="2" align="center" valign="top" class="tinytext"><span class="white">-</span><br>
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="100" align="center" valign="middle"><!-- InstanceBeginEditable name="Edit Region 1" -->
+      <div align="center">
+        <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr class="BigBrainzStyle">
+            <td align="center" valign="middle"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="100%" class="title"><div align="center">SUPPORT</div></td>
+              </tr>
+              <tr>
+                <td class="title"><div align="center" class="smalltext">Please
+                  let us know if there's anything we can do to make this
+                  page more helpful. </div></td>
+              </tr>
+              <tr>
+                <td class="text"><blockquote>
+                  <p>&nbsp;</p>
+                  <p><span class="bullet">Common Questions and Tips</span> </p>
+                  <ol>
+                    <li><a href="#Question1" class="textShowLink">System Requirements </a></li>
+                    <li><a href="#Question2" class="textShowLink">Server Install </a><a href="#Question2" class="textShowLink"></a></li>
+                    <li><a href="#Question3" class="textShowLink">Skip or Rearrange  facts </a></li>
+                    <li><a href="#Question4" class="textShowLink">Challenge a level </a></li>
+                    <li><a href="#Question5" class="textShowLink">How to Play </a></li>
+					<li><a href="#Question6" class="textShowLink">Slow down Bosses</a></li>
+					<li><a href="#Question7" class="textShowLink">Progress Reports</a></li>
+					<li><a href="#Question8" class="textShowLink">Efficacy Research</a></li>
+                    </ol>
+                  <p>
+                    </ol>
+                    <span class="bullet">Known Errors:</span>                  </p>
+                  <ol start="1">
+                    <li><a href="#Error1" class="textShowLink">&quot;Switching to Resolution (ie 640x480) Failed&quot; </a></li>
+                    <li><a href="#Error2" class="textShowLink">Blank, White screen on startup (accompanied by music) </a><br>
+                    </li>
+                    <li><a href="#Error3" class="textShowLink">During gameplay, the environment is black </a><br>
+                    </li>
+                    </ol>
+                </blockquote>
+                  <div align="center"><img src="/Assets/Images/Bot65.jpg" alt="Robot" width="87" height="65"></div>
+                  <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" alt="Multiplication Tables" width="200" height="12"></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                    </table>
+                  <ol>
+                      <li class="bullet"><a name="Question1"></a>Timez Attack System Requirements </li>
+                  </ol>
+                  <blockquote>
+                    <table width="370" border="1" align="center" cellpadding="2">
+                        <tr>
+                          <td width="125" class="text"><div align="center"><strong>Operating System </strong></div></td>
+                          <td width="225" class="text"><div align="center">Vista, XP, 2000, or OS X 10.3.9+ </div></td>
+                          </tr>
+                        <tr>
+                          <td class="text"><div align="center"><strong>Processor</strong></div></td>
+                          <td class="text"><div align="center">1.0 Ghz </div></td>
+                          </tr>
+                        <tr>
+                          <td class="text"><div align="center"><strong>Memory</strong></div></td>
+                          <td class="text"><div align="center">256 MB</div></td>
+                          </tr>
+                        <tr>
+                          <td class="text"><div align="center"><strong>DirectX</strong></div></td>
+                          <td class="text"><div align="center">9.0c</div></td>
+                          </tr>
+                        <tr>
+                          <td class="text"><div align="center"><strong>Graphics Card </strong></div></td>
+                          <td class="text"><div align="center">32+ MB with latest driver </div></td>
+                          </tr>
+                      </table>
+                    </blockquote>
+                  <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" alt="Multiplication Tables" width="200" height="12"></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                    </table>
+                  <ol start="2">
+                      <li class="bullet"><a name="Question2"></a>How do I install Timez Attack on a school server?</li>
+                  </ol>
+                  <blockquote>
+                    <ol>
+                        <li>Run the installer and point it to any file server location that all your workstations can see. <br>
+                            <br>
+                        </li>
+                      <li>Second, create shortcuts/aliases to TimezAttack.exe on your server with full read/write access. </li>
+                      </ol>
+                    <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                        </tr>
+                        <tr>
+                          <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" alt="Multiplication Tables" width="200" height="12"></th>
+                        </tr>
+                        <tr>
+                          <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                        </tr>
+                      </table>
+                  </blockquote>
+                  <ol start="3">
+                      <li class="bullet"><a name="Question3"></a>Skip or rearrange the facts </li>
+                  </ol>
+                  <blockquote>
+                      <p align="justify">To skip or reorder the facts in the home version 1) Start a new Game. 2) While still in the first dungeon cell, press Esc and click on Map. You will see tools in the lower-right corner for rearranging the facts. <span class="smalltext"></span></p>
+                      <p align="center"><img src="Assets/Images/SkipImage2.jpg" alt="Skip Image" width="424" height="240"></p>
+                    <p align="justify">In a school install, open up the Admin program from the Timez Attack folder. Select the entire school, a classroom, or an individual student . . . then press the Options button. Click on facts to skip or drag to rearrange. Facts can cannot be reordered in a specific game once it has been played. </p>
+                    <p align="center"><img src="Assets/Images/SkipinAdminSample.jpg" alt="Skip in Admin Example" width="610" height="410"></p>
+                    </blockquote>
+                  <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" width="200" height="12"></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                    </table>
+                  <ol start="4">
+                            <li class="bullet"><a name="Question4"></a>Challenge a level without playing all the way through </li>
+                            </ol>
+                          <blockquote>
+                            <p align="justify">A player can attempt to pass off a a level at any time without playing all the way through. Once in the level, press Esc, click on Map, select the fact you're currently playing, then press the Challenge button that appears. <span class="smalltext"></span>A second tip is that you can then turn around to see a portal that will teleport you the rest of the way to the final boss! </p>
+                            <p align="center"><img src="Assets/Images/ChallengeImage.jpg" alt="Challenge Image" width="320" height="240" border="0"></p>
+                          </blockquote>
+                          <blockquote>&nbsp;</blockquote>
+                  <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" width="200" height="12"></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                    </table>
+                  <ol start="5">
+                      <li class="bullet">
+                        <p><a name="Question5"></a>How
+                          do I play?</p>
+                      </li>
+                  </ol>
+                  <blockquote>
+                      <p align="justify">The best quick-start tutorial for the game is now the video that plays at <a href="http://www.bigbrainz.com/HowToPlay.html">www.bigbrainz.com/HowToPlay.html</a> on a high-speed connection. But  if you're unable to access that, here's how you get started--and
+                        make sure you press &quot;H&quot; to turn on Hints.&nbsp; Most
+                        children have never played a game as advanced as
+                        Timez Attack, so the only purpose of the first room
+                        is to teach children how to run and jump.&nbsp; So
+                        just run and jump across the bridge, drop
+                        down the hole, and walk through the door down there.</p>
+                      <p align="justify">After the checkpoint, drop down
+                      the hole and go grab the key.&nbsp; (You grab things
+                      by running into them).&nbsp; This will let you &quot;turn
+                      on&quot; the door.&nbsp; Little cards will appear
+                      on the door that represent the multiplication problem
+                      you're learning.&nbsp; They'll instantly jump off
+                      the door and turn into creatures.&nbsp; Collect enough
+                      creatures to solve the problem, then throw them back
+                      at the door by pressing the left mouse button.&nbsp;</p>
+                    <p align="justify">Once you've &quot;built&quot; the answer this
+                      second time, you'll be able to type the answer in.&nbsp; Note
+                      that there's a small display at the top of the screen
+                      that tracks how many balls you need to collect and
+                      throw.&nbsp; Once you've built and solved the answer
+                      an Ogre will come out to make sure you remember it.</p>
+                    <p align="justify">Once you defeat the Ogre, he'll
+                      spit out another key that will let you open the next
+                      door.&nbsp; You'll meet progressively more challenging
+                      creatures that will teach, evaluate and reinforce
+                      all the numbers. </p>
+                    </blockquote>
+				  <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                    </tr>
+                    <tr>
+                      <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" width="200" height="12"></th>
+                    </tr>
+                    <tr>
+                      <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                    </tr>
+                  </table>
+				  <ol start="6">
+                    <li class="bullet"><a name="Question6"></a>Slow down the boss? </li>
+				    </ol>
+				  <blockquote>
+                    <p align="justify">We  discourage slowing down the bosses except in cases of substantial learning disabilities because all of the bosses will autmoatically adapt to a child's individual learning speed (except the Final Boss). Tinkering with the difficulty will therefore generally only give them a subsidized victory that will handicap them in the future. If necessary, the bosses can only be adjusted from the school version. Home users will therefore need to reinstall Timez Attack and select the &quot;school&quot; option. Once the school version is installed, launch the Admin tool and  press the &quot;Options&quot; button. </p>
+                    <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" width="200" height="12"></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                    </table>
+                    </blockquote>
+				  <ol start="7">
+                      <li class="bullet"><a name="Question7"></a>Progress Reports</li>
+					  </ol>
+					<blockquote>
+                      <p align="justify">You can view and print reports for an entire school, class, or individual student. Individual student reports contain a tremendous amount of helpful feedback to keep educators, parents, and children up to date on a player's progress.</p>
+                      <p align="center"><img src="Assets/Images/ReportSample.jpg" alt="Timez Attack Sample Report" width="600" height="612"> </p>
+                      <p align="center">&nbsp;</p>
+					</blockquote>
+					<blockquote>
+					  <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                        </tr>
+                        <tr>
+                          <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" width="200" height="12"></th>
+                        </tr>
+                        <tr>
+                          <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                        </tr>
+                      </table>
+					  </blockquote>
+					<ol start="8">
+                      <li class="bullet"><a name="Question7"></a>Efficacy Research </li>
+					  </ol>
+					<blockquote>
+                      <p align="justify">Timez Attack offers an incredible new standard of efficacy assessment by offering built-in, real-time assessment. That means that the game is constantly assessing its own effectiveness, based on the learning progress of the player. It constantly adapts to the player's individual learning speed and success--absolutely refusing to let the player pass off a level until the player has demonstrated absolute mastery of the designated facts. For that reason, Timez Attack is always 100% effective. As one teacher put it, &quot;I love that Ogre because it means I don't have to be one.&quot;</p>
+                      <p align="justify">The only research left to do then is how long it takes to obtain this desired mastery, measure how effectively it translates to pencil and paper tests, and measure retention. In our internal tests, the average pre-third grader mastered all facts in 10 hours, with the rest close behind. We have a number of schools currently measuring the transfer of that mastery to pencil and paper tests. We will be launching an incredible new Timez Attack component just for retention fairly soon. </p>
+					</blockquote>
+					<table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" width="200" height="12"></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                    </table>
+                  <p class="boxQuote">&nbsp;</p>
+                  <p class="boxQuote">Known Errors</p>
+                  <ol start="1">
+                      <li class="bullet"><a name="Error1"></a>&quot;Switching to Resolution (ie 640x480) Failed&quot;</li>
+                  </ol>
+                  <blockquote>
+                      <p align="justify">Generally this is due to an Intel 82810/815 graphics chips’ inability to implement hardware acceleration.  Currently we are unable to work around this card limitation.</p>
+                      </blockquote>
+                  <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" width="200" height="12"></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                    </table>
+                  <ol start="2">
+                      <li class="bullet"><a name="Error2"></a>Blank, White screen on startup (accompanied by music)</li>
+                  </ol>
+                  <blockquote>
+                      <p align="justify">Generally this is due to a conflict with the Rage 128 Pro graphics card in older computers.  It is possible to work around this problem, but it is very time-consuming, so we have not fixed it yet.</p>
+                  </blockquote>
+                  <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" width="200" height="12"></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                    </table>
+                  <ol start="3">
+                      <li class="bullet"><a name="Error3"></a>During gameplay, the environment is black</li>
+                  </ol>
+                  <blockquote>
+                      <p align="justify">This problem is seen during actual gameplay.  The character is visible, but all of the walls are black.  We have not found any common reason for this problem.  Please go to c:\TimezAttack or /Applications/TimezAttack and run &quot;Report Error&quot;.</p>
+                  </blockquote>
+                  <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" width="200" height="12"></th>
+                      </tr>
+                      <tr>
+                        <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                      </tr>
+                    </table>                  </td>
+              </tr>
+              <tr>
+                <td class="title">&nbsp;</td>
+              </tr>
+            </table>
+            <div align="center">
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+            </div></td>
+          </tr>
+        </table>
+      </div>
+    <!-- InstanceEndEditable --></td>
+          </tr>
+    </table>    </td>
+  </tr>
+  
+  <tr>
+    <td width="764"><table width="525" border="0" align="center" cellpadding="0" cellspacing="0" background="/Assets/Images/NavBarC_02.jpg">
+        <tr>
+          <td width="13" align="left" valign="top"><img src="/Assets/Images/NavBarC_01.jpg" width="13" height="25"></td>
+          <td valign="middle"><div align="center"><a href="/index.php" class="dark">About</a></div>          </td>
+          <td valign="middle"><div align="center"><a href="/Privacy.php" class="dark">Privacy</a></div>          </td>
+          <td valign="middle"><div align="center"><a href="/Guarantee.php" class="dark">Guarantee</a></div></td>
+          <td valign="middle"><div align="center"><a href="/Shipping.php" class="dark">Shipping</a></div>          </td>
+          <td valign="middle"><div align="center"><a href="/affiliate1.php" class="dark">Affiliate Program</a></div></td>
+          <td valign="middle"><div align="center"><a href="/LinkToUs/LinkToUs.html" class="dark">Link To Us</a></div></td>
+          <td valign="middle"><div align="center"><a href="/Contact.php" class="dark">Contact</a></div></td>
+          <td width="18" align="right" valign="top"><div align="right"><img src="/Assets/Images/NavBarC_04.jpg" width="13" height="25"></div>          </td>
+        </tr>
+      </table>    </td>
+    <td width="13">&nbsp;</td>
+  </tr>
+</table>
+<p align="center"><span class="BigBrainzStyle">&copy; 2004 - 2007 Big Brainz, Inc. </span></p>
+<!-- InstanceBeginEditable name="EditRegion6" -->
+<div align="center"></div>
+<!-- InstanceEndEditable --><br>
+<img src="/Assets/Images/spacer.gif" width="10" height="1">
+
+<!-- Google Analytics Tracking Code-->
+<script src="/Assets/Scripts/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-94233-1";
+urchinTracker();
+</script>
+
+</body>
+<!-- InstanceEnd --></html>
