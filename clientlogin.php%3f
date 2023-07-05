@@ -1,0 +1,270 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/BigBrainzTemplate2013.dwt" codeOutsideHTMLIsLocked="false" --> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script> 
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Big Brainz Thanks</title>
+
+<script language="JavaScript" type="text/javascript">
+<!-- Overture Services Inc. 07/15/2003
+var cc_tagVersion = "1.0";
+var cc_accountID = "1534624892";
+var cc_marketID =  "0";
+var cc_protocol="http";
+var cc_subdomain = "convctr";
+if(location.protocol == "https:")
+{
+    cc_protocol="https";
+     cc_subdomain="convctrs";
+}
+var cc_queryStr = "?" + "ver=" + cc_tagVersion + "&aID=" + cc_accountID + "&mkt=" + cc_marketID +"&ref=" + escape(document.referrer);
+var cc_imageUrl = cc_protocol + "://" + cc_subdomain + ".overture.com/images/cc/cc.gif" + cc_queryStr;
+var cc_imageObject = new Image();
+cc_imageObject.src = cc_imageUrl;
+// -->
+</script>  
+
+<!-- Google Analytics Tracking Code-->
+<script src="/Assets/Scripts/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-94233-1";
+urchinTracker();
+</script>
+<!-- InstanceEndEditable -->
+
+<link href="/Templates/BigBrainzStyle2011.css" rel="stylesheet" type="text/css">
+<!--[if !IE 7]><style type="text/css">#wrap {display:table;height:100%}</style><![endif]-->
+<script language="JavaScript" type="text/javascript" src="/Assets/Scripts/PopUpWindow.txt"></script>
+
+
+
+<!-- InstanceBeginEditable name="Desciption and Keywords" -->
+<script src="/Assets/Scripts/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-94233-1";
+urchinTracker();
+</script>
+<!-- InstanceEndEditable -->
+
+<!-- Google Analytics Code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-94233-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End Google Analaytics Code -->
+
+</head> 
+<body> 
+  <div id="pagewrapper">
+	<div id="header"> 
+		<h1><a href="http://www.bigbrainz.com">Multiplication Games</a></h1> 
+		<ul id="topMenu"> 
+			<li><a href="/index.php">Products</a></li>
+			<li><a href="/Downloads.html">Downloads<br>(Home-Use)</a></li>
+			<li><a href="/Schools.php">Schools</a></li>
+			<li><a href="/Support.php">Support</a></li>
+			<li><a href="/games/launcher/app.html">Reports</a></li>
+			<li><a href=""></a></li>			
+			<li><a href="/blog/">Blog</a></li>
+			<li><a href="/cart.php">Checkout</a></li>
+		</ul> 
+	</div> 
+
+
+
+	<div id="main">
+		<div id="boxmain">
+<!-- InstanceBeginEditable name="Edit Region 1" -->
+
+      <div align="center">
+        <table width="100%" height="97%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td><div align="center">
+              <p>
+                      <table class="mincart" width="130" bgcolor="#FFFFFF">
+        <tr> 
+          <td class="mincart" bgcolor="#F0F0F0" align="center"><img src="/images/minipadlock.png" style="vertical-align:text-top;" alt="Login Status" />
+            &nbsp;<strong>Login Status</strong>
+		  </td>
+        </tr>
+		<tr>
+		  <td class="mincart" bgcolor="#F0F0F0" align="center">
+		  <p class="mincart">Not logged in</p>
+		  </td>
+		</tr>
+		<tr> 
+          <td class="mincart" bgcolor="#F0F0F0" align="center"><span style="font-family:Verdana">&raquo;</span> <a class="ectlink mincart" href="http://www.bigbrainz.com/cart.php?mode=login&amp;refurl=%2Fclientlogin.php"><strong>Login</strong></a></td>
+        </tr>
+      </table>                <br />
+                <script type="text/javascript">
+/* <![CDATA[ */
+function vieworder(theid){
+	document.forms.mainform.action.value="vieworder";
+	document.forms.mainform.theid.value=theid;
+	document.forms.mainform.submit();
+}
+function editaddress(theid){
+	document.forms.mainform.action.value="editaddress";
+	document.forms.mainform.theid.value=theid;
+	document.forms.mainform.submit();
+}
+function newaddress(){
+	document.forms.mainform.action.value="newaddress";
+	document.forms.mainform.submit();
+}
+function editaccount(){
+	document.forms.mainform.action.value="editaccount";
+	document.forms.mainform.submit();
+}
+function deleteaddress(theid){
+	if(confirm("Are you sure you want to delete this address?")){
+		document.forms.mainform.action.value="deleteaddress";
+		document.forms.mainform.theid.value=theid;
+		document.forms.mainform.submit();
+	}
+}
+function createlist(){
+if(document.forms.mainform.listname.value==''){
+	alert("Please enter a value in the field \"Gift Registry Name\".");
+	document.forms.mainform.listname.focus();
+	return(false);
+}else{
+	document.forms.mainform.action.value="createlist";
+	document.forms.mainform.submit();
+}
+}
+function deletelist(theid){
+	if(confirm("Are you sure you want to delete this list?")){
+		document.forms.mainform.action.value="deletelist";
+		document.forms.mainform.theid.value=theid;
+		document.forms.mainform.submit();
+	}
+}
+/* ]]> */
+</script>
+	  <table class="cobtbl" width="100%" border="0" cellspacing="1" cellpadding="3">
+        <tr>
+		  <td class="cobhl cobhdr" align="center" height="32" colspan="2"><strong>Customer Account</strong></td>
+		</tr>
+		<tr>
+		  <td class="cobll" align="center" height="32" colspan="2"><p>&nbsp;</p><p>You must be logged in to access your customer account.</p>
+		  <p><input type="button" value="Login" class="login" onclick="document.location=(((ECTbh=document.getElementsByTagName('base')).length>0?ECTbh[0].href+'/':'')+'cart.php?mode=login&amp;refurl=%2Fclientlogin.php').replace(/([^:]\/)\/+/g,'$1')" /></p>
+		  <p>&nbsp;</p>
+		  </td>
+		</tr>
+      </table>
+              </p>
+              </div></td>
+          </tr>
+        </table>
+      </div>
+
+
+      <div align="center">
+        <!-- Google Code for Purchase Conversion Page -->
+        <script language="JavaScript" type="text/javascript">
+<!--
+var google_conversion_id = 1069441077;
+var google_conversion_language = "en_US";
+var google_conversion_format = "1";
+var google_conversion_color = "FFFFFF";
+if ($ordTotal) {
+  var google_conversion_value = $ordTotal;
+}
+var google_conversion_label = "Purchase";
+//-->
+      </script>
+        <script language="JavaScript" src="https://www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+      </script>
+        <noscript>
+        <img height="1" width="1" border="0" src="https://www.googleadservices.com/pagead/conversion/1069441077/?value=$ordTotal&amp;label=Purchase&amp;script=0" />
+        </noscript>         
+        
+        <!-- START MSN adCenter Code -->
+        <script>
+microsoft_adcenterconversion_domainid = 1686;
+ microsoft_adcenterconversion_cp = 5050; 
+      </script>
+        <script src="https://0.r.msn.com/scripts/microsoft_adcenterconversion.js"></script>
+        <noscript>
+          <img width="1" height="1" src="https://1686.r.msn.com/?type=1&amp;cp=1"/>
+          </noscript>
+        <a href="http://advertising.msn.com/MSNadCenter/LearningCenter/adtracker.asp" target="_blank">::adCenter::</a>
+        <!-- END MSN adCenter Code -->
+        
+        </div>
+            <!-- InstanceEndEditable -->
+	  	</div>
+		
+	  <!-- InstanceBeginEditable name="EditRegion4" -->
+		<!-- InstanceEndEditable -->
+		
+		<!-- InstanceBeginEditable name="EditRegion5" -->
+		<!-- InstanceEndEditable -->
+	</div>
+	  
+</div>
+<div id="footer">
+		<ul id="bottomMenu"> 
+			<li><a href="/Contact.php">Contact</a></li> 
+			<li><a href="/Reviews.html">Reviews</a></li> 
+			<li><a href="/Articles">Articles</a></li> 
+			
+			<li><a href="/LinkToUs/LinkToUs.html">Link<br /> 
+		    To Us</a></li> 
+			<li><a href="/affiliate1.php">Affiliates</a></li> 
+			<li><a href="/Shipping.php">Shipping</a></li> 
+			<li><a href="/Guarantee.php">Guarantee</a></li> 
+			<li><a href="/TermsOfUse.php">Terms <br />
+		    of Use</a></li> 
+			<li><a href="/Legal.php">Legal</a></li> 
+			<li><a href="/About.php">About</a></li> 
+			<li><a href="/orderstatus.php">My Orders </a></li>
+		</ul> 
+<div id="copyright">&copy; 2004 - 2013 Big Brainz, Inc.</div>
+</div>
+
+<!-- NEW Google Analytics Tracking Code-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-94233-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END Google Analytics Tracking Code-->
+
+<!-- BEGIN AdRoll Tracking Code-->
+<script type="text/javascript">
+adroll_adv_id = "X36G6FX3ABDDTKTJBOZMWT";
+adroll_pix_id = "UFCWAPQTOJBVNAE2Q4G3XI";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!-- END AdRoll Tracking Code-->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"cacd9cf827","applicationID":"8818441","transactionName":"NgFSZhZVXkRVVRcLCw9LZUANG1NbXVMNFggOA1lcSkRYRw==","queueTime":0,"applicationTime":3,"atts":"GkZREF5PTUo=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+
+<!-- InstanceEnd --></html>
