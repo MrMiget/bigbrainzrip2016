@@ -1,0 +1,80 @@
+ td {
+    padding: 5px;
+ }
+ 
+ td .label {
+    font-family:verdana;
+    font-size:11pt;
+    text-align:right;
+ }
+ 
+ div .product_image_area {
+    width:33%;
+    padding:10px;
+ }
+ 
+ div .form_area {
+    width:70%;
+ }
+ 
+ div .form_area .review_input_area {
+    width: 100%; 
+    clear: both;
+ }
+ 
+div .form_area .verify_area {
+    width: 100%;
+    clear: both;
+}
+ 
+ div .verify_area .verify_explain_area {
+    width: 100%; 
+    clear: both; 
+    margin-top:25px; 
+    margin-bottom:20px;
+ }
+ 
+ div .verify_area .verify_inputs {
+    margin-left:40px;
+ }
+ 
+ .explain {
+    font-family:verdana;
+    font-size:11pt;
+    font-weight:bold;
+ }
+ 
+ div .verify_inputs .order_id_area {
+    width:40%;
+    height:80px;
+    float:left;
+    padding:5px;
+    margin:5px;
+    border:1px solid grey;
+ }
+ 
+ div .verify_inputs .divider_area {
+    width:10;
+    float:left;
+    margin-top:30px;
+ }
+ 
+ div .verify_inputs .captcha_area {
+    width:40%;
+    height:80px;
+    float:left;
+    padding:5px;
+    margin:5px;
+    border:1px solid grey;
+ }
+ 
+ div .captcha_area .captcha_content {
+    position:relative;
+    bottom:0;
+    left:0;
+ }
+ 
+ div .verify_area .submit_button_area {
+    clear:both;
+    padding:20px;
+ }
