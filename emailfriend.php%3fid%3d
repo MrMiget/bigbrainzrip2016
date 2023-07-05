@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Email Friend</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body style="margin: 5px 5px 5px 5px;">
+<script language="javascript" type="text/javascript">
+<!--
+function formvalidator(theForm){
+  if (theForm.yourname.value == ""){
+    alert("Please enter a value in the field \"Your Name\".");
+    theForm.yourname.focus();
+    return (false);
+  }
+  if (theForm.youremail.value == ""){
+    alert("Please enter a value in the field \"Your Email\".");
+    theForm.youremail.focus();
+    return (false);
+  }
+  if (theForm.friendsemail.value == ""){
+    alert("Please enter a value in the field \"Your Friends Email\".");
+    theForm.friendsemail.focus();
+    return (false);
+  }
+  return (true);
+}
+//-->
+</script>
+<br />
+<form method="post" action="emailfriend.php" onsubmit="return formvalidator(this)">
+  <input type="hidden" name="posted" value="1" />
+  <input type="hidden" name="id" value="" />
+  <table class="cobtbl emftbl" border="0" cellspacing="1" cellpadding="3" width="100%" bgcolor="#B1B1B1">
+	<tr>
+	  <td class="cobhl emfhl" bgcolor="#EBEBEB" colspan="2" align="center" width="100%" height="30"><strong>Email Friend</strong></td>
+	</tr>
+    <tr>
+	  <td class="cobll emfll" bgcolor="#FFFFFF" colspan="2" align="center" width="100%">
+		<table border="0" cellspacing="1" cellpadding="1" width="100%">
+		  <tr>
+			<td width="100%">Let your friends know about this amazing game.<br>Just fill in the details below and click &quot;Send&quot;.			</td>
+		  </tr>
+		</table>
+	  </td>
+	</tr>
+	<tr>
+	  <td class="cobhl emfhl" bgcolor="#EBEBEB" width="35%" align="right"><font color="#FF0000">*</font>Your Name:</td><td class="cobll emfll" bgcolor="#FFFFFF"><input type="text" name="yourname" size="26" /></td>
+	</tr>
+	<tr>
+	  <td class="cobhl emfhl" bgcolor="#EBEBEB" align="right"><font color="#FF0000">*</font>Your Email:</td><td class="cobll emfll" bgcolor="#FFFFFF"><input type="text" name="youremail" size="30" /></td>
+	</tr>
+	<tr>
+	  <td class="cobhl emfhl" bgcolor="#EBEBEB" align="right"><font color="#FF0000">*</font>Your Friends Email:</td><td class="cobll emfll" bgcolor="#FFFFFF"><input type="text" name="friendsemail" size="30" /></td>
+	</tr>
+	<tr>
+	  <td class="cobhl emfhl" bgcolor="#EBEBEB" align="right"><font color="#FF0000">*</font>Your Comments:</td><td class="cobll emfll" bgcolor="#FFFFFF"><textarea name="yourcomments" cols="30" rows="5"></textarea></td>
+	</tr>
+	<tr>
+	  <td class="cobll emfll" bgcolor="#FFFFFF" colspan="2" align="center" width="100%" height="30">
+		<table width="100%" cellspacing="0" cellpadding="0" border="0">
+		  <tr>
+			<td width="16" height="26" align="right" valign="bottom">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+			<td width="100%" align="center"><input type="submit" value="Send" />&nbsp;&nbsp;<input type="button" value="Close Window" onclick="javascript:self.close()" /></td>
+			<td width="16" height="26" align="right" valign="bottom"><img src="images/tablebr.gif" alt="" /></td>
+		  </tr>
+		</table>
+	  </td>
+	</tr>
+  </table>
+</form>
+</body>
+</html>
