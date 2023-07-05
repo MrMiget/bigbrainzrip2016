@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+<html><head>
+<style type="text/css">
+body {background-color: #ffffff; color: #000000;}
+body, td, th, h1, h2 {font-family: sans-serif;}
+pre {margin: 0px; font-family: monospace;}
+a:link {color: #000099; text-decoration: none; background-color: #ffffff;}
+a:hover {text-decoration: underline;}
+table {border-collapse: collapse;}
+.center {text-align: center;}
+.center table { margin-left: auto; margin-right: auto; text-align: left;}
+.center th { text-align: center !important; }
+td, th { border: 1px solid #000000; font-size: 75%; vertical-align: baseline;}
+h1 {font-size: 150%;}
+h2 {font-size: 125%;}
+.p {text-align: left;}
+.e {background-color: #ccccff; font-weight: bold; color: #000000;}
+.h {background-color: #9999cc; font-weight: bold; color: #000000;}
+.v {background-color: #cccccc; color: #000000;}
+.vr {background-color: #cccccc; text-align: right; color: #000000;}
+img {float: right; border: 0px;}
+hr {width: 600px; background-color: #cccccc; border: 0px; height: 1px; color: #000000;}
+</style>
+<title>phpinfo()</title></head>
+<body><div class="center">
+<h1>PHP Credits</h1>
+<table border="0" cellpadding="3" width="600">
+<tr class="h"><th>PHP Group</th></tr>
+<tr><td class="e">Thies C. Arntzen, Stig Bakken, Shane Caraveo, Andi Gutmans, Rasmus Lerdorf, Sam Ruby, Sascha Schumann, Zeev Suraski, Jim Winstead, Andrei Zmievski </td></tr>
+</table><br />
+<table border="0" cellpadding="3" width="600">
+<tr class="h"><th>Language Design &amp; Concept</th></tr>
+<tr><td class="e">Andi Gutmans, Rasmus Lerdorf, Zeev Suraski </td></tr>
+</table><br />
+<table border="0" cellpadding="3" width="600">
+<tr class="h"><th colspan="2">PHP 5 Authors</th></tr>
+<tr class="h"><th>Contribution</th><th>Authors</th></tr>
+<tr><td class="e">Zend Scripting Language Engine </td><td class="v">Andi Gutmans, Zeev Suraski </td></tr>
+<tr><td class="e">Extension Module API </td><td class="v">Andi Gutmans, Zeev Suraski, Andrei Zmievski </td></tr>
+<tr><td class="e">UNIX Build and Modularization </td><td class="v">Stig Bakken, Sascha Schumann </td></tr>
+<tr><td class="e">Win32 Port </td><td class="v">Shane Caraveo, Zeev Suraski, Wez Furlong </td></tr>
+<tr><td class="e">Server API (SAPI) Abstraction Layer </td><td class="v">Andi Gutmans, Shane Caraveo, Zeev Suraski </td></tr>
+<tr><td class="e">Streams Abstraction Layer </td><td class="v">Wez Furlong, Sara Golemon </td></tr>
+<tr><td class="e">PHP Data Objects Layer </td><td class="v">Wez Furlong, Marcus Boerger, Sterling Hughes, George Schlossnagle, Ilia Alshanetsky </td></tr>
+</table><br />
+<table border="0" cellpadding="3" width="600">
+<tr class="h"><th colspan="2">SAPI Modules</th></tr>
+<tr class="h"><th>Contribution</th><th>Authors</th></tr>
+<tr><td class="e">AOLserver </td><td class="v">Sascha Schumann </td></tr>
+<tr><td class="e">Apache 1.3 (apache_hooks) </td><td class="v">Rasmus Lerdorf, Zeev Suraski, Stig Bakken, David Sklar, George Schlossnagle, Lukas Schroeder </td></tr>
+<tr><td class="e">Apache 1.3 </td><td class="v">Rasmus Lerdorf, Zeev Suraski, Stig Bakken, David Sklar </td></tr>
+<tr><td class="e">Apache 2.0 Filter </td><td class="v">Sascha Schumann, Aaron Bannert </td></tr>
+<tr><td class="e">Apache 2.0 Handler </td><td class="v">Ian Holsman, Justin Erenkrantz (based on Apache 2.0 Filter code) </td></tr>
+<tr><td class="e">Caudium / Roxen </td><td class="v">David Hedbor </td></tr>
+<tr><td class="e">CGI / FastCGI </td><td class="v">Rasmus Lerdorf, Stig Bakken, Shane Caraveo </td></tr>
+<tr><td class="e">CLI </td><td class="v">Edin Kadribasic, Marcus Boerger, Johannes Schlueter </td></tr>
+<tr><td class="e">Continuity </td><td class="v">Alex Leigh (based on nsapi code) </td></tr>
+<tr><td class="e">Embed </td><td class="v">Edin Kadribasic </td></tr>
+<tr><td class="e">ISAPI </td><td class="v">Andi Gutmans, Zeev Suraski </td></tr>
+<tr><td class="e">NSAPI </td><td class="v">Jayakumar Muthukumarasamy, Uwe Schindler </td></tr>
+<tr><td class="e">phttpd </td><td class="v">Thies C. Arntzen </td></tr>
+<tr><td class="e">pi3web </td><td class="v">Holger Zimmermann </td></tr>
+<tr><td class="e">Sendmail Milter </td><td class="v">Harald Radi </td></tr>
+<tr><td class="e">thttpd </td><td class="v">Sascha Schumann </td></tr>
+<tr><td class="e">tux </td><td class="v">Sascha Schumann </td></tr>
+<tr><td class="e">WebJames </td><td class="v">Alex Waugh </td></tr>
+</table><br />
+<table border="0" cellpadding="3" width="600">
+<tr class="h"><th colspan="2">Module Authors</th></tr>
+<tr class="h"><th>Module</th><th>Authors</th></tr>
+<tr><td class="e">Assert </td><td class="v">Thies C. Arntzen </td></tr>
+<tr><td class="e">BC Math </td><td class="v">Andi Gutmans </td></tr>
+<tr><td class="e">Bzip2 </td><td class="v">Sterling Hughes </td></tr>
+<tr><td class="e">Calendar </td><td class="v">Shane Caraveo, Colin Viebrock, Hartmut Holzgraefe, Wez Furlong </td></tr>
+<tr><td class="e">COM and .Net </td><td class="v">Wez Furlong </td></tr>
+<tr><td class="e">ctype </td><td class="v">Hartmut Holzgraefe </td></tr>
+<tr><td class="e">cURL </td><td class="v">Sterling Hughes </td></tr>
+<tr><td class="e">Date/Time Support </td><td class="v">Derick Rethans </td></tr>
+<tr><td class="e">DB-LIB (MS SQL, Sybase) </td><td class="v">Wez Furlong, Frank M. Kromann </td></tr>
+<tr><td class="e">DBA </td><td class="v">Sascha Schumann, Marcus Boerger </td></tr>
+<tr><td class="e">dBase </td><td class="v">Jim Winstead </td></tr>
+<tr><td class="e">DOM </td><td class="v">Christian Stocker, Rob Richards, Marcus Boerger </td></tr>
+<tr><td class="e">EXIF </td><td class="v">Rasmus Lerdorf, Marcus Boerger </td></tr>
+<tr><td class="e">FBSQL </td><td class="v">Frank M. Kromann </td></tr>
+<tr><td class="e">FDF </td><td class="v">Uwe Steinmann </td></tr>
+<tr><td class="e">FilePro </td><td class="v">Chad Robinson </td></tr>
+<tr><td class="e">Firebird/InterBase driver for PDO </td><td class="v">Ard Biesheuvel </td></tr>
+<tr><td class="e">FTP </td><td class="v">Stefan Esser, Andrew Skalski </td></tr>
+<tr><td class="e">GD imaging </td><td class="v">Rasmus Lerdorf, Stig Bakken, Jim Winstead, Jouni Ahto, Ilia Alshanetsky, Pierre-Alain Joye, Marcus Boerger </td></tr>
+<tr><td class="e">GetText </td><td class="v">Alex Plotnick </td></tr>
+<tr><td class="e">GNU GMP support </td><td class="v">Stanislav Malyshev </td></tr>
+<tr><td class="e">HwAPI </td><td class="v">Uwe Steinmann </td></tr>
+<tr><td class="e">Iconv </td><td class="v">Rui Hirokawa, Stig Bakken, Moriyoshi Koizumi  </td></tr>
+<tr><td class="e">IMAP </td><td class="v">Rex Logan, Mark Musone, Brian Wang, Kaj-Michael Lang, Antoni Pamies Olive, Rasmus Lerdorf, Andrew Skalski, Chuck Hagenbuch, Daniel R Kalowsky </td></tr>
+<tr><td class="e">Informix </td><td class="v">Danny Heijl, Christian Cartus, Corne&#039; Cornelius </td></tr>
+<tr><td class="e">InterBase </td><td class="v">Jouni Ahto, Andrew Avdeev, Ard Biesheuvel </td></tr>
+<tr><td class="e">LDAP </td><td class="v">Amitay Isaacs, Eric Warnke, Rasmus Lerdorf, Gerrit Thomson, Stig Venaas </td></tr>
+<tr><td class="e">LIBXML </td><td class="v">Christian Stocker, Rob Richards, Marcus Boerger, Wez Furlong, Shane Caraveo </td></tr>
+<tr><td class="e">mcrypt </td><td class="v">Sascha Schumann, Derick Rethans </td></tr>
+<tr><td class="e">mhash </td><td class="v">Sascha Schumann </td></tr>
+<tr><td class="e">mime_magic </td><td class="v">Hartmut Holzgraefe </td></tr>
+<tr><td class="e">MING </td><td class="v">Dave Hayden, Frank M. Kromann </td></tr>
+<tr><td class="e">MS SQL </td><td class="v">Frank M. Kromann </td></tr>
+<tr><td class="e">mSQL </td><td class="v">Zeev Suraski </td></tr>
+<tr><td class="e">Multibyte String Functions </td><td class="v">Tsukada Takuya, Rui Hirokawa </td></tr>
+<tr><td class="e">mySQL driver for PDO </td><td class="v">George Schlossnagle, Wez Furlong, Ilia Alshanetsky </td></tr>
+<tr><td class="e">MySQL </td><td class="v">Zeev Suraski, Zak Greant, Georg Richter </td></tr>
+<tr><td class="e">MySQLi </td><td class="v">Zak Greant, Georg Richter </td></tr>
+<tr><td class="e">ncurses </td><td class="v">Ilia Alshanetsky, Wez Furlong, Hartmut Holzgraefe, Georg Richter </td></tr>
+<tr><td class="e">OCI8 </td><td class="v">Stig Bakken, Thies C. Arntzen, Andy Sautins, David Benson, Maxim Maletsky, Harald Radi, Antony Dovgal, Andi Gutmans, Wez Furlong </td></tr>
+<tr><td class="e">ODBC driver for PDO </td><td class="v">Wez Furlong </td></tr>
+<tr><td class="e">ODBC </td><td class="v">Stig Bakken, Andreas Karajannis, Frank M. Kromann, Daniel R. Kalowsky </td></tr>
+<tr><td class="e">OpenSSL </td><td class="v">Stig Venaas, Wez Furlong, Sascha Kettler </td></tr>
+<tr><td class="e">Oracle (OCI) driver for PDO </td><td class="v">Wez Furlong </td></tr>
+<tr><td class="e">pcntl </td><td class="v">Jason Greene </td></tr>
+<tr><td class="e">Perl Compatible Regexps </td><td class="v">Andrei Zmievski </td></tr>
+<tr><td class="e">PHP Data Objects </td><td class="v">Wez Furlong, Marcus Boerger, Sterling Hughes, George Schlossnagle, Ilia Alshanetsky </td></tr>
+<tr><td class="e">PHP hash </td><td class="v">Sara Golemon, Rasmus Lerdorf, Stefan Esser, Michael Wallner </td></tr>
+<tr><td class="e">Posix </td><td class="v">Kristian Koehntopp </td></tr>
+<tr><td class="e">PostgreSQL driver for PDO </td><td class="v">Edin Kadribasic, Ilia Alshanetsky </td></tr>
+<tr><td class="e">PostgreSQL </td><td class="v">Jouni Ahto, Zeev Suraski, Yasuo Ohgaki, Chris Kings-Lynne </td></tr>
+<tr><td class="e">Pspell </td><td class="v">Vlad Krupin </td></tr>
+<tr><td class="e">Readline </td><td class="v">Thies C. Arntzen </td></tr>
+<tr><td class="e">Recode </td><td class="v">Kristian Köhntopp </td></tr>
+<tr><td class="e">Reflection </td><td class="v">Marcus Boerger, Timm Friebe, George Schlossnagle, Andrei Zmievski, Johannes Schlueter </td></tr>
+<tr><td class="e">Sessions </td><td class="v">Sascha Schumann, Andrei Zmievski </td></tr>
+<tr><td class="e">Shared Memory Operations </td><td class="v">Slava Poliakov, Ilia Alshanetsky </td></tr>
+<tr><td class="e">SimpleXML </td><td class="v">Sterling Hughes, Marcus Boerger, Rob Richards </td></tr>
+<tr><td class="e">SNMP </td><td class="v">Rasmus Lerdorf, Harrie Hazewinkel, Mike Jackson, Steven Lawrance, Johann Hanne </td></tr>
+<tr><td class="e">SOAP </td><td class="v">Brad Lafountain, Shane Caraveo, Dmitry Stogov </td></tr>
+<tr><td class="e">Sockets </td><td class="v">Chris Vandomelen, Sterling Hughes, Daniel Beulshausen, Jason Greene </td></tr>
+<tr><td class="e">SPL </td><td class="v">Marcus Boerger </td></tr>
+<tr><td class="e">SQLite 3.x driver for PDO </td><td class="v">Wez Furlong </td></tr>
+<tr><td class="e">SQLite </td><td class="v">Wez Furlong, Tal Peer, Marcus Boerger, Ilia Alshanetsky </td></tr>
+<tr><td class="e">Sybase-CT </td><td class="v">Zeev Suraski, Tom May, Timm Friebe </td></tr>
+<tr><td class="e">Sybase-DB </td><td class="v">Zeev Suraski </td></tr>
+<tr><td class="e">System V Message based IPC </td><td class="v">Wez Furlong </td></tr>
+<tr><td class="e">System V Semaphores </td><td class="v">Tom May </td></tr>
+<tr><td class="e">System V Shared Memory </td><td class="v">Christian Cartus </td></tr>
+<tr><td class="e">tidy </td><td class="v">John Coggeshall, Ilia Alshanetsky </td></tr>
+<tr><td class="e">tokenizer </td><td class="v">Andrei Zmievski </td></tr>
+<tr><td class="e">WDDX </td><td class="v">Andrei Zmievski </td></tr>
+<tr><td class="e">XML </td><td class="v">Stig Bakken, Thies C. Arntzen, Sterling Hughes </td></tr>
+<tr><td class="e">XMLReader </td><td class="v">Rob Richards </td></tr>
+<tr><td class="e">xmlrpc </td><td class="v">Dan Libby </td></tr>
+<tr><td class="e">XMLWriter </td><td class="v">Rob Richards, Pierre-Alain Joye </td></tr>
+<tr><td class="e">XSL </td><td class="v">Christian Stocker, Rob Richards </td></tr>
+<tr><td class="e">Zlib </td><td class="v">Rasmus Lerdorf, Stefan Roehrich, Zeev Suraski, Jade Nicoletti </td></tr>
+</table><br />
+<table border="0" cellpadding="3" width="600">
+<tr class="h"><th colspan="2">PHP Documentation</th></tr>
+<tr><td class="e">Authors </td><td class="v">Mehdi Achour, Friedhelm Betz, Antony Dovgal, Nuno Lopes, Philip Olson, Georg Richter, Damien Seguy, Jakub Vrana </td></tr>
+<tr><td class="e">Editor </td><td class="v">Gabor Hojtsy </td></tr>
+<tr><td class="e">User Note Maintainers </td><td class="v">Mehdi Achour, Friedhelm Betz, Vincent Gevers, Aidan Lister, Nuno Lopes, Tom Sommer </td></tr>
+<tr><td class="e">Other Contributors </td><td class="v">Previously active authors, editors and other contributors are listed in the manual. </td></tr>
+</table><br />
+<table border="0" cellpadding="3" width="600">
+<tr class="h"><th>PHP 5.1 Quality Assurance Team</th></tr>
+<tr><td class="e">Ilia Alshanetsky, Joerg Behrens, Antony Dovgal, Stefan Esser, Moriyoshi Koizumi, Magnus Maatta, Sebastian Nohn, Derick Rethans, Melvyn Sopacua, Jani Taskinen </td></tr>
+</table><br />
+<table border="0" cellpadding="3" width="600">
+<tr class="h"><th>PHP Website Team</th></tr>
+<tr><td class="e">Gabor Hojtsy, Colin Viebrock, Jim Winstead </td></tr>
+</table><br />
+</div></body></html>
