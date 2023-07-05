@@ -1,0 +1,735 @@
+<!-- Start of Google A/B Testing Code -->
+<script>
+function utmx_section(){}function utmx(){}
+(function(){var k='3306835971',d=document,l=d.location,c=d.cookie;function f(n){
+if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return c.substring(i+n.
+length+1,j<0?c.length:j)}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
+d.write('<sc'+'ript src="'+
+'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
++'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
++new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
+</script><script>utmx("url",'A/B');</script>
+<!-- End of Google A/B Testing Code -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><!-- InstanceBegin template="/Templates/BigBrainzTemplate.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Multiplication Tables</title>
+<!-- InstanceEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="/Templates/BigBrainzStyle.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/javascript" src="/Assets/Scripts/PopUpWindow.txt"></script>
+
+<!-- FlashObject embed by Geoff Stearns geoff@deconcept.com  -->
+<script type="text/javascript" src="/Assets/Scripts/flashobject.js"></script>
+
+<!-- InstanceBeginEditable name="Desciption and Keywords" -->
+<link rel="canonical" href="http://www.bigbrainz.com"/>
+<meta name="description" content="A stunning new multiplication tables computer game from Big Brainz--as entertaining as a top video game, yet as rigorous and effective as on-one-one training with a skilled teacher.">
+<meta name="keywords" content="multiplication tables, times tables, help, learning, worksheets, drill, flash cards">
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">_uacct = "UA-94233-1";urchinTracker();</script>
+
+<!--Begin Macromedia Flash Version Detection -->
+<script language="JavaScript" type="text/javascript" src="/Assets/Scripts/flashdetector1.js"></script>
+<script language="VBScript" type="text/vbscript" src="/Assets/Scripts/flashdetector2.vbs"></script>
+<script language="JavaScript1.1" type="text/javascript" src="/Assets/Scripts/flashdetector3.js"></script>
+<!--End Macromedia Flash Version Detection -->
+
+
+<!-- InstanceEndEditable -->
+
+</head>
+<body>
+
+<div align="center">
+  <script src='vsadmin/savecookie.php?PARTNER=CedarHillES&EXPIRES=30'></script></div>
+<table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
+  
+  <tr>
+    <td colspan="2" align="center" valign="middle"><div align="left">
+      <table width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="145"><a href="/index.php"><img src="/Assets/MultiplicationTables/MultiplicationTable.jpg" alt="Home" width="145" height="60" border="0"></a></td>
+          <td valign="middle"><div align="center"> <!-- InstanceBeginEditable name=" " --><h1>The Ultimate Multiplication Tables Video Game</h1><!-- InstanceEndEditable --> </div></td>
+        </tr>
+      </table>
+    </div></td>
+  </tr>
+  <tr>
+    <td colspan="2" class="ThinCell"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr background="/Assets/Images/NavBarC_02.jpg">
+          <td width="10" background="/Assets/Images/NavBarC_02.jpg"><img src="/Assets/Images/NavBarC_01.jpg" width="10" height="25"></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/index.php" class="dark">Home</a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/Support.php" class="dark">Support</a></div></td>
+		  <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/orderstatus.php" class="dark">My Orders </a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/Teachers.php" class="dark">Teachers</a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/VideoTour.html" class="dark">Video Tour  </a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/Reviews.html" class="dark">Reviews </a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><img src="/images/clearpixel.gif" width="150" height="20"></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/espanol/index.php" class="dark">Espa&ntilde;ol</a></div></td>
+          <td valign="middle" background="/Assets/Images/NavBarC_02.jpg"><div align="center"><a href="/cart.php" class="dark">Checkout</a></div>          </td>
+          <td width="10" background="/Assets/Images/NavBarC_02.jpg"><img src="/Assets/Images/NavBarC_04.jpg" width="13" height="25"></td>
+        </tr>
+      </table>    </td>
+  </tr>
+  <tr>
+    <td height="50%" colspan="2" align="center" valign="top" class="tinytext"><span class="white">-</span><br>
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="100" align="center" valign="middle"><!-- InstanceBeginEditable name="Edit Region 1" -->
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><div align="center">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td><div align="center" class="tinytext">
+                          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="720" height="50" title="Exciting Multiplication Facts">
+                            <param name="movie" value="Assets/Flash/QuoteMain.swf">
+                            <param name="quality" value="high">
+                            <embed src="Assets/Flash/QuoteMain.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="720" height="50"></embed>
+                          </object>
+                          <br>
+                           <script language="JavaScript" type="text/javascript"><!-- 
+// Version check for the Flash Player that has the ability to start Player Product Install (6.0r65)
+var hasProductInstall = DetectFlashVer(6, 0, 65);
+
+// Version check based upon the values entered above in "Globals"
+var hasReqestedVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+
+// Location visited after installation is complete if installation is required
+var MMredirectURL = window.location;
+
+// Stored value of document title used by the installation process to close the window that started the installation process
+// This is necessary to remove browser windows that will still be utilizing the older version of the player after installation is complete
+// DO NOT MODIFY THE FOLLOWING TWO LINES
+document.title = document.title.slice(0, 47) + " - Flash Player Installation";
+var MMdoctitle = document.title;
+
+// Check to see if a player with Flash Product Install is available and the version does not meet the requirements for playback
+if ( hasProductInstall && !hasReqestedVersion ) {
+    var productInstallOETags = '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'
+    + 'width="720" height="340"'
+    + 'codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab">'
+    + '<param name="movie" value="Assets/Flash/playerProductInstall.swf?MMredirectURL='+MMredirectURL+'&MMplayerType=ActiveX&MMdoctitle='+MMdoctitle+'" />'
+    + '<param name="quality" value="high" /><param name="bgcolor" value="#FDFDFD" />'
+    + '<embed src="Assets/Flash/playerProductInstall.swf?MMredirectURL='+MMredirectURL+'&MMplayerType=PlugIn" quality="high" bgcolor="#FDFDFD" '
+    + 'width="720" height="340" name="detectiontest" aligh="middle"'
+    + 'play="true"'
+    + 'loop="false"'
+    + 'quality="high"'
+    + 'allowScriptAccess="sameDomain"'
+    + 'type="application/x-shockwave-flash"'
+    + 'pluginspage="http://www.macromedia.com/go/getflashplayer">'
+    + '<\/embed>'
+    + '<\/object>';
+    document.write(productInstallOETags);   // embed the Flash Product Installation SWF
+} else if (hasReqestedVersion) {  // if we've detected an acceptable version
+    var oeTags = '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'
+    + 'width="720" height="340"'
+    + 'codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab">'
+    + '<param name="movie" value="Assets/Flash/VideoTour_Amazon2.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#FFFFFF" />'
+    + '<embed src="Assets/Flash/VideoTour_Amazon2.swf" quality="high" bgcolor="#FFFFFF" '
+    + 'width="720" height="340" name="detectiontest" aligh="middle"'
+    + 'play="true"'
+    + 'loop="false"'
+    + 'quality="high"'
+    + 'allowScriptAccess="sameDomain"'
+    + 'type="application/x-shockwave-flash"'
+    + 'pluginspage="http://www.macromedia.com/go/getflashplayer">'
+    + '<\/embed>'
+    + '<\/object>';
+    document.write(oeTags);   // embed the Flash Content SWF when all tests are passed
+  } else {  // flash is too old or we can't detect the plugin
+    var alternateContent = '<img src="/Assets/Flash/Intro.jpg" alt="Multiplication Tables" width="720" height="210"> <br>'
+  	+ 'To see the cutting-edge video on this page you will need the latest '
+   	+ '<a href="http://www.macromedia.com/go/getflash/" class="textShowLink">Flash Player</a> and a high-speed connection.<br>';
+    document.write(alternateContent);  // insert non-flash content
+  }
+// -->
+  </script>
+    <!-- End of Auto Install-->
+    
+  <noscript class="text">
+  <img src="/Assets/MultiplicationTables/TimesTable.jpg" alt="Multiplication Tables" width="720" height="210"><br>
+    To see the amazing multiplication tables video  you'll need the latest 
+    <a href="http://www.macromedia.com/go/getflash/" class="textShowLink">Flash Player</a> and a high-speed connection.
+    <p><br></p>
+  </noscript>
+
+                        </div></td>
+                      </tr>
+                    </table>
+                  </div></td>
+                </tr>
+                <tr>
+                  <th valign="middle" ><div id="flashcontent2">
+                    <span class="RedSmall"></span><span class="bullet">Over 1,000,000 served in  162 countries!!</span>
+                    <script type="text/javascript">
+   var fo = new FlashObject("/Assets/Flash/ScrollingQuotes02.swf", "ScrollingText", "720", "30", "6", "#FFFFFF");
+
+   fo.write("flashcontent2");
+                    </script>
+<br>
+                    <table width="60%" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" width="200" height="12"></th>
+                      </tr>
+                    </table>
+                    <table width="100%" border="0" cellspacing="5">
+                      <tr>
+                        <td width="33%"><div align="center" class="notice2">100% Money-Back Guarantee</div></td>
+                        <td width="33%"><div align="center" class="BigBrainzStyle">Order by Phone (toll-free):&nbsp; <br>
+                                <font size="+1">(877) 356-7040</font></div></td>
+                        <td width="33%"><p align="center" class="BigBrainzStyle"><span class="notice2">FREE Domestic Shipping</span><br>
+                        </p></td>
+                      </tr>
+                  </table></th>
+                </tr>
+                <tr>
+                  <td><div align="center">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td valign="top"><table width="100%" border="0" align="center">
+                          <tr>
+                            <td width="30%" align="center" valign="middle"><div align="center">
+                              <table width="180" height="250" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td width="19" height="20"><img src="/Assets/Images/BoxRndGrn1/images/BoxRnd_TL.jpg" width="19" height="20" /></td>
+                                  <td background="/Assets/Images/BoxRndGrn1/images/BoxRnd_TM.jpg">&nbsp;</td>
+                                  <td width="19" height="20"><img src="/Assets/Images/BoxRndGrn1/images/BoxRnd_TR.jpg" width="19" height="20" /></td>
+                                </tr>
+                                <tr>
+                                  <td background="/Assets/Images/BoxRndGrn1/images/BoxRnd_ML.jpg">&nbsp;</td>
+                                  <td valign="top" bgcolor="D4FCE2"><p align="center" class="Green"><img src="Assets/Images/icons/Present_100.jpg" alt="Present" width="83" height="100"><br>
+                                      <span class="Green2">Base Version<br>
+                                        </span><span class="Greenlite">teaches 2s - 12s!!</span><span class="smalltextStandout"><br>
+                                        </span><a href="#ScrollStart"><img src="Assets/Images/FreeArrow_100.jpg" alt="Free Multiplication Game" width="100" height="76" border="0"></a></a><br>    
+                                    </p>                                    </td>
+                                  <td background="/Assets/Images/BoxRndGrn1/images/BoxRnd_MR.jpg">&nbsp;</td>
+                                </tr>
+                                <tr class="text">
+                                  <td width="19" height="18" align="left" valign="top"><img src="/Assets/Images/BoxRndGrn1/images/BoxRnd_BL.jpg" width="19" height="18" /></td>
+                                  <td height="18" background="/Assets/Images/BoxRndGrn1/images/BoxRnd_BM.jpg">&nbsp;</td>
+                                  <td width="19" height="18" align="right" valign="top"><img src="/Assets/Images/BoxRndGrn1/images/BoxRnd_BR.jpg" width="19" height="18" /></td>
+                                </tr>
+                              </table>
+                            </div></td>
+                            <td width="40%"><div align="center">
+                              <table width="100%" height="275" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td width="19" height="20"><img src="/Assets/Images/BoxRndBlue1/images/BoxRnd_TL.jpg" width="19" height="20"></td>
+                                  <td background="/Assets/Images/BoxRndBlue1/images/BoxRnd_TM.jpg">&nbsp;</td>
+                                  <td width="19" height="20"><img src="/Assets/Images/BoxRndBlue1/images/BoxRnd_TR.jpg" width="19" height="20"></td>
+                                </tr>
+                                <tr>
+                                  <td background="/Assets/Images/BoxRndBlue1/images/BoxRnd_ML.jpg"></td>
+                                  <td valign="top" bgcolor="D1DDFF"><div align="center">
+                                    <p><img src="Assets/Images/DVDCase_100.jpg" alt="Home Use" width="100" height="100" border="0"><br>
+                                      <span class="Blue">Full Version: Home Use</span></p>
+                                    <p><a href="http://www.bigbrainz.com/DeliveryMethodHelp.htm" target="popup" class="smallertext"
+onClick="wopen('http://www.bigbrainz.com/DeliveryMethodHelp.htm', 300, 225); return false;">Download or CD?</a><br>
+
+                                                                            <script language="javascript" type="text/javascript">
+<!--
+var aPC = new Array();var aIM = new Array(2);aIM[0] = new Array();aIM[1] = new Array();var dIM = new Array();var pIM = new Array();var pIX = new Array();var isW3 = (document.getElementById&&true);
+var tax=0;
+function dummyfunc(){};
+function pricechecker(i){
+if(i!='')return(aPC[i]);return(0);}
+function enterValue(x){
+alert('Please enter a value where indicated.');
+x.focus();return(false);}
+function enterDigits(x){alert("Please enter only digits in this field.");x.focus();return(false);}
+function enterMultValue(){alert("Please enter a quantity for at least one option.");return(false);}
+function chooseOption(x){
+alert('Please choose from the available product options.');
+x.focus();return(false);}
+function dataLimit(x){
+alert('Please enter a maximum of 255 chars in the field indicated.');
+x.focus();return(false);}
+function formatprice(i, currcode, currformat){
+var pTemplate='$0.00';
+if(currcode!='') pTemplate=' 0.00' + (currcode!=' '?'<strong>'+currcode+'<\/strong>':'');if(currcode==' JPY')i = Math.round(i).toString();
+else if(i==Math.round(i))i=i.toString()+".00";
+else if(i*10.0==Math.round(i*10.0))i=i.toString()+"0";
+else if(i*100.0==Math.round(i*100.0))i=i.toString();
+if(currcode!="")pTemplate = currformat.toString().replace(/%s/,i.toString());else pTemplate = pTemplate.toString().replace(/\d[,.]*\d*/,i.toString());return(pTemplate);}
+function openEFWindow(id) {
+window.open('emailfriend.php?id='+id,'email_friend','menubar=no, scrollbars=no, width=400, height=400, directories=no,location=no,resizable=yes,status=no,toolbar=no')
+}
+aPC[41]=5;aPC[40]=0;
+function updateoptimage(theitem,themenu,isdetail,opttype){
+if(imageitem=document.getElementById("prodimage"+theitem)){
+var imageitemsrc='',theopt = eval('document.forms.tForm'+theitem+'.optn'+themenu);
+if(opttype==1){
+	for(var i=0; i<theopt.length; i++){
+		if(theopt[i].checked) theid=theopt[i].value;
+	}
+}else theid=theopt.options[theopt.selectedIndex].value;
+theimage=aIM[isdetail][theid];
+if(typeof(theimage)!='undefined'){
+	if(dIM[theitem].indexOf('%s')>=0)theimage=dIM[theitem].replace(/\%s/,theimage);
+	if(typeof(imageitem.src)!='unknown')imageitem.src=theimage;
+}
+}
+}
+function updateprodimage(theitem,isnext){
+var imlist=pIM[theitem].split('\|');
+if(isnext) pIX[theitem]++; else pIX[theitem]--;
+if(pIX[theitem]<0) pIX[theitem]=imlist.length-2;
+if(pIX[theitem]>imlist.length-2) pIX[theitem]=0;
+document.getElementById("prodimage"+theitem).src=imlist[pIX[theitem]];
+document.getElementById("extraimcnt"+theitem).innerHTML=pIX[theitem]+1;
+return false;
+}
+//-->
+</script><script language="javascript" type="text/javascript">
+<!--
+function formvalidator0(theForm){
+if(theForm.optn0.selectedIndex==0)return(chooseOption(theForm.optn0));
+return (true);
+}
+function updateprice0(){
+var totAdd=39.99;
+if(!isW3) return;totAdd=totAdd+pricechecker(document.forms.tForm0.optn0.options[document.forms.tForm0.optn0.selectedIndex].value);
+document.getElementById('pricediv0').innerHTML=formatprice(Math.round((totAdd)*100.0)/100.0, '', '');
+}
+dIM[0]='prodimages/';
+//-->
+</script><script language="javascript" type="text/javascript">
+function showgiantimage(imgname){
+document.getElementById('giantimgspan').style.display='block';
+document.getElementById('mainbodyspan').style.display='none';
+document.getElementById('prodimage999').src=imgname;
+}
+function hidegiantimage(){
+document.getElementById('giantimgspan').style.display='none';
+document.getElementById('mainbodyspan').style.display='block';
+return(false);
+}
+</script>
+	<span id="giantimgspan" style="display:none">
+	  <table border="0" cellspacing="0" cellpadding="0" width="98%" align="center">
+	    <tr><td><strong><span class="giantimgname detailname">Timez Attack </span> <span class="giantimgback">(<a class="ectlink" href="proddetail.php?prod=02" onclick="javascript:return hidegiantimage();" >Back to product</a>)</span></strong><br/>&nbsp;</td></tr>
+		<tr>
+		  <td>
+		  <table border="0" cellspacing="1" cellpadding="1" align="center">
+			<tr><td align="center" colspan="3"><img id="prodimage999" class="giantimage prodimage" src="images/clearpixel.gif" border="0" alt="Timez Attack"  style="margin:0px;" /></td></tr>
+		  </table>
+		  </td>
+		</tr>
+	  </table>
+	</span>
+	<span id="mainbodyspan" style="display:block">
+	  <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+		<tr> 
+		  <td width="100%">
+			<form method="post" name="tForm0" action="cart.php" onsubmit="return formvalidator0(this)" style="margin:0px;padding:0px;">
+<!--Benz:  Had to go in and edit in these values-->
+			<table class = "text" width="100%" border="0" cellspacing="0" cellpadding="6" bgcolor="">  
+			  <tr> 
+<!--				<td width="30%" align="center" class="detailimage"><[DELETED THE ? HERE]php showdetailimages(); ?></td>
+					<td>&nbsp;</td> -->
+				<td width="70%" valign="top">
+<br /><div class="detailoptions" align="center"><table border="0" cellspacing="1" cellpadding="1" width="100%"><tr><td align="center"> <select class="prodoption" onchange="updateprice0();updateoptimage(0,0,1);" name="optn0" size="1"><option value="">Please Select...</option><option value="40">Download Only</option>
+<option value="41">Download & CD (+$5.00)</option>
+</select></td></tr></table></div><div align="center" class="bullet"><strong>Price:</strong> <span class="price" id="pricediv0">$39.99</span> </div>
+<p align="center">
+<input type="hidden" name="id" value="02" />
+<input type="hidden" name="mode" value="add" />
+<input type="hidden" name="frompage" value="/index.php?PARTNER=CedarHillES" />
+<input type='image' src='/Assets/Images/BuyBlue_100.jpg' border='0' alt='Buy' /><!-- We have to remove this one too -->
+<!-- <hr width="80%" /></p> -->
+</td>
+			</tr>
+			</table>
+			</form>
+          </td>
+        </tr>
+</table></span><script language="javascript" type="text/javascript">updateoptimage(0,0,1,2);</script><span class="bullet">Includes both PC and Mac Versions! </span><br>
+                                      <a href="http://www.bigbrainz.com/SystemRequirementsSmall.htm" target="popup" class="smalltext2"
+onClick="wopen('http://www.bigbrainz.com/SystemRequirementsSmall.htm', 300, 275); return false;">System Requirements  </a><br>
+
+
+                                      </span></p>
+                                    </div></td>
+                                  <td background="/Assets/Images/BoxRndBlue1/images/BoxRnd_MR.jpg"></td>
+                                </tr>
+                                <tr class="text">
+                                  <td width="19" height="18" align="left" valign="top"><img src="/Assets/Images/BoxRndBlue1/images/BoxRnd_BL.jpg" width="19" height="18"></td>
+                                  <td height="18" background="/Assets/Images/BoxRndBlue1/images/BoxRnd_BM.jpg"></td>
+                                  <td width="19" height="18" align="right" valign="top"><img src="/Assets/Images/BoxRndBlue1/images/BoxRnd_BR.jpg" width="19" height="18"></td>
+                                </tr>
+                              </table>
+                            </div></td>
+                            <td width="30%" valign="middle"><div align="center">
+                              <table width="180" height="250" border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td width="19" height="20"><img src="/Assets/Images/BoxRndRed/images/BoxRnd_TL.jpg" width="19" height="20" /></td>
+                                  <td background="/Assets/Images/BoxRndRed/images/BoxRnd_TM.jpg">&nbsp;</td>
+                                  <td width="19" height="20"><img src="/Assets/Images/BoxRndRed/images/BoxRnd_TR.jpg" width="19" height="20" /></td>
+                                </tr>
+                                <tr>
+                                  <td background="/Assets/Images/BoxRndRed/images/BoxRnd_ML.jpg">&nbsp;</td>
+                                  <td valign="top" bgcolor="FFD5De"><p align="center"><a href="Teachers.php"><img src="Assets/MultiplicationTables/TeachingMultiplication.jpg" alt="School Use" width="88" height="100" border="0"></a><span class="RedSmall"><br>
+                                    </span><span class="Red">Full Version: School Use<br> 
+                                          <br>
+                                      $200 to $795<br>
+                                    </span><span class="RedSmall">(Free Full-Version Demo)<br>
+                                    </span><a href="Teachers.php"><img src="Assets/Images/TeachersRed_100.jpg" alt="Multiplication Tables Teachers" width="100" height="33" border="0"></a><br>
+                                      </p>                                    </td>
+                                  <td background="/Assets/Images/BoxRndRed/images/BoxRnd_MR.jpg">&nbsp;</td>
+                                </tr>
+                                <tr class="text">
+                                  <td width="19" height="18" align="left" valign="top"><img src="/Assets/Images/BoxRndRed/images/BoxRnd_BL.jpg" width="19" height="18" /></td>
+                                  <td height="18" background="/Assets/Images/BoxRndRed/images/BoxRnd_BM.jpg">&nbsp;</td>
+                                  <td width="19" height="18" align="right" valign="top"><img src="/Assets/Images/BoxRndRed/images/BoxRnd_BR.jpg" width="19" height="18" /></td>
+                                </tr>
+                              </table>
+                            </div></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td valign="top"><div align="center" class="BigBrainzStyle">
+                          <table width="60%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" alt="Multiplication Tables" width="200" height="12"></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                          </table>
+                          <span class="smalltext"><br>
+                          </span></div></td>
+                      </tr>
+                      
+                      <tr>
+                        <td valign="top"><table width="100%" border="0">
+                          <tr>
+                            <td width="72%"><a name="ScrollStart"></a><img src="Assets/MultiplicationTables/Multiplication.jpg" alt="Multiplication Tables Dungeon" width="510" height="383"></td>
+                            <td width="28%" rowspan="2" class="boxQuote">&quot;This
+                              is by far the best multiplication practice software
+                              I have ever seen!&quot; <br>
+                              <span class="BoxQuoteRef"><br>
+                              -Jason Zimmerman, Teacher </span></td>
+                          </tr>
+                          <tr>
+                            <td><p align="center"><span class="BoxTitle">Multiplication
+                                  Tables Mastery = Confidence and Success</span></p>                              </td>
+                            </tr>
+                        </table></td>
+                      </tr>
+                      <tr>
+                        <td valign="top"><div align="center">
+                          <table width="60%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" alt="Multiplication Tables" width="200" height="12"></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                          </table>
+                          <table width="100%" border="0">
+                            <tr>
+                              <td width="34%" rowspan="2" class="boxQuote">&quot;Thank
+                                you for revolutionizing the educational game
+                                world! &quot; <br>
+                                  <span class="BoxQuoteRef"><br>
+                                    -Sheralea Pandorf<br>
+                                Appreciative Mom</span></td>
+                              <td width="66%"><img src="Assets/MultiplicationTables/PrintableMultiplicationChart.jpg" alt="Multiplication Tables Dungeon" width="510" height="383"></td>
+                            </tr>
+                            <tr>
+                              <td><p align="center"><span class="BoxTitle">&quot;I could not get her to stop playing it all weekend!!!&quot; <span class="BoxQuoteRef"><br>
+                                A GRATEFUL MOM IN TEXAS! </span></span></p></td>
+                              </tr>
+                          </table>
+                          <table width="60%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" alt="Multiplication Tables" width="200" height="12"></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                          </table>
+                          <table width="100%" border="0">
+                            <tr>
+                              <td width="66%"><img src="Assets/MultiplicationTables/MultiplicationChart.jpg" alt="Multiplication Tables Dungeon" width="510" height="383"></td>
+                              <td width="34%" class="boxQuote">&quot;The first time my son played the game his multiplication test score went up 20 points!&quot; <br>
+                                      <span class="BoxQuoteRef"><br>
+                                - Kirsten Wood </span></td>
+                            </tr>
+                          </table>
+                          <table width="60%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" alt="Multiplication Tables" width="200" height="12"></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                          </table>
+                          <table width="100%" border="0">
+                            
+                            <tr>
+                              <td width="34%" class="boxQuote">&quot;I
+                                could not get them to stop playing, and they
+                                are really learning the facts! &quot; <br>
+                                  <span class="BoxQuoteRef"><br>
+                                    -Barb Barrins<br>
+                                Mother of 7 </span></td>
+                              <td width="66%"><img src="Assets/MultiplicationTables/MultiplicationDrill.jpg" alt="Multiplication Tables Dungeon" width="510" height="383"></td>
+                            </tr>
+                          </table>
+                          <table width="60%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" alt="Multiplication Tables" width="200" height="12"></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                          </table>
+                          <table width="100%" border="0">
+                            <tr>
+                              <td width="66%"><img src="Assets/MultiplicationTables/MultiplicationGame.jpg" alt="Multiplication Tables Dungeon" width="510" height="383"></td>
+                              <td width="34%" rowspan="2" class="boxQuote">&quot;This is the first time my son has said to me, 'Mom, hurry up! I want to get home so I can do school!!!!'&quot; <br>
+                                  <span class="BoxQuoteRef"><br>
+                                -Sharette Giese                                  </span></td>
+                            </tr>
+                            <tr>
+                              <td><p align="center"><span class="BoxTitle">Doesn't just drill--Teaches  Total Multiplication  Mastery</span>!</p></td>
+                              </tr>
+                          </table>
+                          <table width="60%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" alt="Multiplication Tables" width="200" height="12"></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                          </table>
+                          <table width="100%" border="0">
+                            <tr>
+                              <td width="34%" rowspan="2" class="boxQuote">&quot;If
+                                you don't  LOVE it, we'll
+                                gladly refund your money with zero hassle.   &quot; <br>
+                                  <span class="BoxQuoteRef"><br>
+                                <img src="Assets/Images/Ben_75.jpg" alt="Multiplication Game Founder" width="75" height="100"><br>
+                                -Founder <br>
+                                Ben Harrison <br>
+</span></td>
+                              <td width="66%"><img src="Assets/MultiplicationTables/MultiplicationFacts.jpg" alt="Multiplication Tables Dungeon" width="510" height="383"></td>
+                            </tr>
+                            <tr>
+                              <td><p align="center"><span class="BoxTitle">Unlike any multiplication tables game you've ever seen. </span></p></td>
+                            </tr>
+                          </table>
+                          <table width="60%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" alt="Multiplication Tables" width="200" height="12"></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                          </table>
+                          <table width="100%" border="0">
+                            <tr>
+                              <td width="66%"><img src="Assets/MultiplicationTables/MultiplicationWorksheets.jpg" alt="Multiplication Tables Dungeon" width="510" height="383"></td>
+                              <td width="34%" rowspan="2" class="boxQuote"><p>&quot;I can already see a massive improvement!!!</p>
+                                <p>I really don't miss those @#$% <br>
+                                  flash cards. &quot; <br>
+                                    <span class="BoxQuoteRef"><br>
+                                -Mary</span></p></td>
+                            </tr>
+                            <tr>
+                              <td><p align="center"><span class="BoxTitle">Free version teaches all the multiplication tables! <br>
+                                  </span></p></td>
+                              </tr>
+                          </table>
+                          <table width="60%" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" background="/Assets/Images/LineBlue_12.jpg" class="tinytext"><img src="/Assets/Images/spacer.gif" alt="Multiplication Tables" width="200" height="12"></th>
+                            </tr>
+                            <tr>
+                              <th valign="middle" class="tinytext"><div align="center"><img src="/Assets/Images/spacer.gif" width="200" height="12"></div></th>
+                            </tr>
+                          </table>
+                          <img src="Assets/MultiplicationTables/MultiplicationTablesGift.jpg" alt="Multiplication Tables Christmas Logo" width="308" height="210"><br>
+                          <table width="100%" border="0">
+                            <tr>
+                              <td width="30%" class="boxQuote"><p>&quot;I have
+                                  spent so much  on software . . . which frankly
+                                  has been a waste of money.&nbsp; Timez Attack's
+                                  doing what it says it does . . . not just taking
+                                  desperate parents' money.  &quot;<span class="BoxQuoteRef"><br>
+                                  Nicole--London, England </span></p></td>
+                            </tr>
+                          </table>
+                          <br>
+                        </div></td>
+                      </tr>
+                    </table>
+                  </div></td>
+                </tr>
+                
+                <tr>
+                  <td colspan="1" align="center" valign="bottom"><br>
+                <table width="440" border="0" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td width="19" height="20"><img src="/Assets/Images/BoxRndGrn1/images/BoxRnd_TL.jpg" width="19" height="20" /></td>
+                        <td background="/Assets/Images/BoxRndGrn1/images/BoxRnd_TM.jpg">&nbsp;</td>
+                        <td width="19" height="20"><img src="/Assets/Images/BoxRndGrn1/images/BoxRnd_TR.jpg" width="19" height="20" /></td>
+                      </tr>
+                      <tr>
+                        <td background="/Assets/Images/BoxRndGrn1/images/BoxRnd_ML.jpg">&nbsp;</td>
+                        <td valign="top" bgcolor="D4FCE2" class="Green"><div align="center" class="bullet"><img src="Assets/Images/icons/Present_100.jpg" alt="Present" width="83" height="100"><br>
+                            <span class="Green2">Base Version<br>
+                            </span><span class="Greenlite">Teaches 2s - 12s!!</span></div>
+                        <br></td>
+                        <td background="/Assets/Images/BoxRndGrn1/images/BoxRnd_MR.jpg">&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td background="/Assets/Images/BoxRndGrn1/images/BoxRnd_ML.jpg">&nbsp;</td>
+                        <td valign="middle" bgcolor="D4FCE2" class="Green"><form action="http://www.bigbrainz.com/oemPro/subscribe.php" method="post" name="oemProSubscription" id="oemProSubscription">
+                          <div align="center" class="textBold">
+                            <p><span class="Green">
+                              <input type="hidden" name="FormValue_MailListIDs[]" value="1" />
+                              Name:
+                              <input type="text" name="FormValue_CustomField1" value="" size="16"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                              
+                              Email:
+                              <input type="text" name="FormValue_Email" value="" size="16"/>
+                              <br>
+                              <input type="radio" name="FormValue_CustomField10[]" value="1" />
+                              Parent &nbsp;
+                              <input type="radio" name="FormValue_CustomField10[]" value="2" />
+                            Teacher </span></p>
+                            <p><span class="Greenlite"><a href="Download.html" class="textShowLink">Children under 13--click here instead </a></span><br>
+                              </p>
+                          </div>
+                          <div align="center"><span class="textBold"><img src="Assets/Images/spacer.gif" width="5" height="24"></span><img src="Assets/Images/spacer.gif" width="5" height="45">
+                                <input type="image" src="Assets/Images/FreeGreen_100.jpg" name="Subscribe2" value="Submit" />
+                                <input type="hidden" name="FormValue_SuccessScreenID" value="MjI%3D" />
+                                <input type="hidden" name="FormValue_FailureScreenID" value="MjE%3D" />
+                          </div>
+                        </form></td>
+                        <td background="/Assets/Images/BoxRndGrn1/images/BoxRnd_MR.jpg">&nbsp;</td>
+                      </tr>
+                      <tr class="text">
+                        <td width="19" height="18" align="left" valign="top"><img src="/Assets/Images/BoxRndGrn1/images/BoxRnd_BL.jpg" width="19" height="18" /></td>
+                        <td height="18" background="/Assets/Images/BoxRndGrn1/images/BoxRnd_BM.jpg">&nbsp;</td>
+                        <td width="19" height="18" align="right" valign="top"><img src="/Assets/Images/BoxRndGrn1/images/BoxRnd_BR.jpg" width="19" height="18" /></td>
+                      </tr>
+                    </table>
+                    <span class="smalltext">We will not ever sell or distribute your personal information--ever.<br>
+                    .</span> <br>
+                    <table width="100%" border="0">
+                      <tr>
+                        <td width="30%" class="boxQuote"><p>&quot;We have a whole cabinet full of educational games that rarely get played, but I'm sold on this one.   &quot;<span class="BoxQuoteRef"><br>
+                            Shannon Moore </span></p></td>
+                      </tr>
+                    </table>                  </td></tr>
+                <tr>
+                  <td colspan="1" align="left" valign="bottom">&nbsp;&nbsp;
+                    <div align="center"></div>
+                  <p></p></td>
+                </tr>
+              </table>
+			  
+			  <!--Inserted by Ben--this gets flash stuff to automatically trigger-->
+			  <script type="text/javascript" src="/Assets/Scripts/ieupdate.js"></script>  
+			  
+            <!-- InstanceEndEditable --></td>
+          </tr>
+    </table>    </td>
+  </tr>
+  
+  <tr>
+    <td width="764"><table width="600" border="0" align="center" cellpadding="0" cellspacing="0" background="/Assets/Images/NavBarC_02.jpg">
+        <tr>
+          <td width="13" align="left" valign="top"><img src="/Assets/Images/NavBarC_01.jpg" width="13" height="25"></td>
+          <td valign="middle"><div align="center"><a href="/index.php" class="dark">About</a></div>          </td>
+          <td valign="middle"><div align="center"><a href="/Privacy.php" class="dark">Privacy</a></div>          </td>
+		  <td valign="middle"><div align="center"><a href="/TermsOfUse.php" class="dark">Terms of Use</a></div>          </td>
+          <td valign="middle"><div align="center"><a href="/Guarantee.php" class="dark">Guarantee</a></div></td>
+          <td valign="middle"><div align="center"><a href="/Shipping.php" class="dark">Shipping</a></div>          </td>
+          <td valign="middle"><div align="center"><a href="/affiliate1.php" class="dark">Affiliate Program</a></div></td>
+          <td valign="middle"><div align="center"><a href="/LinkToUs/LinkToUs.html" class="dark">Link To Us</a></div></td>
+          <td valign="middle"><div align="center"><a href="/Contact.php" class="dark">Contact</a></div></td>
+          <td width="18" align="right" valign="top"><div align="right"><img src="/Assets/Images/NavBarC_04.jpg" width="13" height="25"></div>          </td>
+        </tr>
+    </table>    </td>
+    <td width="13">&nbsp;</td>
+  </tr>
+</table>
+<p align="center"><span class="BigBrainzStyle">&copy; 2004 - 2009 Big Brainz, Inc. </span></p>
+<!-- InstanceBeginEditable name="EditRegion6" -->
+<div align="center" class="BigBrainzStyle">
+  <p>- <a href="Articles/MultiplicationTables.html">Multiplication
+  Tables</a> - </p>
+  <p><a href="Download.html" class="BigBrainzStyle">*</a></p>
+</div>
+
+<!-- Start of Google A/B Testing Code -->
+<script type="text/javascript">
+if(typeof(_gat)!='object')document.write('<sc'+'ript src="http'+
+(document.location.protocol=='https:'?'s://ssl':'://www')+
+'.google-analytics.com/ga.js"></sc'+'ript>')</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-8611918-1");
+pageTracker._trackPageview("/3306835971/test");
+}catch(err){}</script>
+<!-- End of Google A/B Testing Code -->
+<!-- InstanceEndEditable --><br>
+<img src="/Assets/Images/spacer.gif" width="10" height="1">
+
+<!-- OLD Google Analytics Tracking Code
+<script src="/Assets/Scripts/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-94233-1";
+urchinTracker();
+</script>-->
+
+<!-- NEW Google Analytics Tracking Code-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-94233-1");
+pageTracker._trackPageview();
+</script>
+
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,242 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/BigBrainzTemplate2014.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+<!-- InstanceBeginEditable name="doctitle" -->
+
+<title>Big Brainz - Multipication Tables - Online Math Game</title>
+
+<!-- InstanceEndEditable -->
+
+<link href="/Templates/BigBrainzStyle2014.css" rel="stylesheet" type="text/css">
+<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+<!--[if !IE 7]><style type="text/css">#wrap {display:table;height:100%}</style><![endif]-->
+<script language="JavaScript" type="text/javascript" src="/Assets/Scripts/PopUpWindow.txt"></script>
+
+
+
+<!-- InstanceBeginEditable name="Desciption and Keywords" -->
+
+<link rel="canonical" href="http://www.bigbrainz.com"/>
+
+<meta name="description" content="Learn your multiplication tables fast with this fun to play video game! Get ahead in school and enjoy doing it with Big Brainz.">
+
+<meta name="keywords" content="Multiplication, Multiplication Games, Times Tables, Multiplication Table">
+
+<!-- InstanceEndEditable -->
+
+<!-- Google Analytics Code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-94233-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- End Google Analaytics Code -->
+
+</head>
+<body>
+  <div id="pagewrapper">
+	<div id="header">
+		<h1><a href="http://www.bigbrainz.com">Multiplication Games</a></h1>
+		<ul id="topMenu">
+			<li><a href="/Store.php">Store</a></li>
+			<li><a href="/Downloads.html">Downloads<br>(Home-Use)</a></li>
+			<li><a href="/Schools.php">Schools</a></li>
+			<li><a href="/Support.php">Support</a></li>
+			<li><a href="/games/launcher/app.html">Reports</a></li>
+			<li><a href=""></a></li>
+			<li><a href="/blog/">Blog</a></li>
+			<li><a href="/cart.php">Checkout</a></li>
+		</ul>
+	</div>
+
+
+
+	<div id="main">
+		<div id="boxmain">
+<!-- InstanceBeginEditable name="Edit Region 1" -->
+
+<h1>We want EVERY student  on earth  to master their core math facts.</h1>
+<p align="left" class="text">The National Mathematics Advisory Board emphasizes that   automatic recall of core math facts is &ldquo;critical&rdquo; because students  need to free up working memory  to learn higher-order concepts. They  also emphasize that most curricula fail to do so. That&rsquo;s why we&rsquo;ve spent the past decade building a truly  high-end video game  ensures automaticity, restores confidence, and teaches hard work. Check out our monumental  <a href="Schools.php#Research">research results</a> or <a href="Downloads.html">download</a> our free demo today to see which facts YOU need to learn.</p>
+<p class="notice3"></p>
+<!-- InstanceEndEditable -->
+	  	</div>
+
+	  <!-- InstanceBeginEditable name="EditRegion4" -->
+
+		<div id="videoColumnLeft">
+
+		  <p>
+<script>
+var image = new Image();
+image.src = "http://youtube.com/favicon.ico";
+image.onload = function(){
+	// The user can access youtube
+	var youtube_html = '<iframe width="560" height="315" src="//www.youtube.com/embed/ud4lQC39pn0" frameborder="0" controls=2 allowfullscreen></iframe>';
+	document.getElementById('youtube').innerHTML = youtube_html;
+};
+image.onerror = function(){
+// The user can't access youtube
+	var youtube_html = '<a href="http://s3.amazonaws.com/BigBrainz/Quick-Start-Video-2014.mp4" title="TA_30Sec" target="_new" rel="#voverlay"><img src="Assets/Images/Quick-Start-Video-Play-Image.png" alt="TA_30Sec" width="560" height="315" border="0" /></a>';
+	document.getElementById('youtube').innerHTML = youtube_html;
+
+};
+
+</script>
+<div id = "youtube">:)</div>
+		  </p>
+
+  	  </div>
+
+
+
+		<div id="videoColumnRight">
+
+		  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+            <tr>
+
+              <td><div class="homeUse" id="homeUse";>Home Use </div></td>
+
+              <td><div class="schoolUse" id="schoolUse"><a href="/Schools.php">School Use </a></div></td>
+
+            </tr>
+
+            <tr class="smalltext">
+              <td id="borderDrawTL">&nbsp;</td>
+              <td id="borderDrawTR">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2" align="center" id="borderDrawMiddle"><a href="Store.php"><img src="Assets/Images/Buttons/Shop-Now_210.png" width="210" height="50" alt="Shop Now" /></a></td>
+            </tr>
+            <tr>
+
+              <td id="borderDrawTL"><div align="center"><a href="/Multiplication.php"><img src="Assets/Images/Buttons/Product-Icon-Mult-Red-100.png" alt="Multiplication Video Game" width="100" height="100" border="0" /></a><br />
+              </div></td>
+
+              <td id="borderDrawMiddleRight"><div align="center"><a href="/Division.php"><img src="Assets/Images/Buttons/Product-Icon-Plain-Div-Yellow-100.png" alt="Division Video Games" width="100" height="100" border="0" /></a><br />
+              </div></td>
+
+            </tr>
+
+            <tr>
+              <td id="borderDrawBL"><div align="center"><a href="/Addition.php"><span class="text14Bold"><img src="Assets/Images/Buttons/Product-Icon-Add-BlueMatch-100-New.png" alt="Addition Video Games" width="100" height="100" border="0" /></span></a><br />
+              </div></td>
+              <td id="borderDrawBR"><div align="center"><a href="/Subtraction.php"><span class="text14Bold"><img src="Assets/Images/Buttons/Product-Icon-Sub-BlueMatchLight-100-New.png" alt="Subtraction Video Games" width="100" height="100" border="0" /></span></a><br />
+              </div></td>
+            </tr>
+          </table>
+
+  	  </div>
+
+	  <!-- InstanceEndEditable -->
+
+		<!-- InstanceBeginEditable name="EditRegion5" -->
+
+		<div id="box2">
+
+		  <table width="100%" border="0" cellspacing="0" bordercolor="004080">
+
+            <tr>
+
+              <td width="20%" align="center" valign="middle" no-repeat="no-repeat"><div align="center">
+
+                  <p class="NoTile"><a href="Guarantee.php"><img src="Assets/Images/SquareRed_MoneyBack.jpg" alt="Love this multiplication video game or get your money back" width="157" height="82" /></a></p>
+
+              </div></td>
+
+              <td width="20%" align="center" valign="middle" no-repeat="no-repeat"><div align="center">
+
+                  <p class="NoTile"><img src="Assets/Images/SquareBlue_CallUs.jpg" alt="Call us a Big Brainz" width="157" height="82" /></p>
+
+              </div></td>
+
+              <td width="20%"><div align="center" class="BigBrainzStyle"><img src="Assets/Images/TALogo3_156.jpg" alt="Timez Attack Logo" width="156" height="106" /></div></td>
+
+              <td width="20%" align="center" valign="middle" no-repeat="no-repeat"><div align="center">
+
+                  <p class="NoTile"><img src="Assets/Images/SquareBlue_Million.jpg" alt="Kids accross the country are learning multiplication with Big Brainz" width="157" height="82" /></p>
+
+              </div></td>
+
+              <td width="20%" align="center" valign="middle" no-repeat="no-repeat"><div align="center">
+
+                  <p class="NoTile">
+                  <a href="http://www.securitymetrics.com/site_certificate.adp?s=97%2e75%2e160%2e82&amp;i=963526" target="_blank" >
+<img src="http://www.securitymetrics.com/images/sm_ccsafe_whborder.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" border="0"> </a></p>
+
+              </div></td>
+
+            </tr>
+
+          </table>
+
+	  	</div>
+
+		<!-- InstanceEndEditable -->
+	</div>
+
+</div>
+<div id="footer">
+		<ul id="bottomMenu">
+			<li><a href="/Contact.php">Contact</a></li>
+			<li><a href="/reviews/web/">Reviews</a></li>
+			<li><a href="/Articles">Articles</a></li>
+
+			<li><a href="/LinkToUs/LinkToUs.html">Link<br />
+		    To Us</a></li>
+			<li><a href="/affiliate1.php">Affiliates</a></li>
+			<li><a href="/Shipping.php">Shipping</a></li>
+			<li><a href="/Guarantee.php">Guarantee</a></li>
+			<li><a href="/TermsOfUse.php">Terms <br />
+		    of Use</a></li>
+			<li><a href="/Legal.php">Legal</a></li>
+			<li><a href="/About.php">About</a></li>
+			<li><a href="/orderstatus.php">My Orders </a></li>
+		</ul>
+<div id="copyright">&copy; 2004 - 2014 Big Brainz, Inc.</div>
+</div>
+
+<!-- NEW Google Analytics Tracking Code-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-94233-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- END Google Analytics Tracking Code-->
+
+<!-- BEGIN AdRoll Tracking Code-->
+<script type="text/javascript">
+adroll_adv_id = "X36G6FX3ABDDTKTJBOZMWT";
+adroll_pix_id = "UFCWAPQTOJBVNAE2Q4G3XI";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!-- END AdRoll Tracking Code-->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"cacd9cf827","applicationID":"8818441","transactionName":"NgFSZhZVXkRVVRcLCw9LZUANG1lZUFMbTBQJFA==","queueTime":0,"applicationTime":2,"atts":"GkZREF5PTUo=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+
+<!-- InstanceEnd --></html>
