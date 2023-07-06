@@ -1,0 +1,271 @@
+/* 
+    Document   : styles
+    Created on : Jul 10, 2012, 10:27:53 AM
+    Author     : bigbrainz
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+.no-icon {
+	display : none;
+	background-image:url('ext/resources/images/default/s.gif') !important;
+}
+.testing { font-family: "Calibri", serif; font-size:24pt; font-style:italic; }
+div#banner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 90px;
+}
+div#banner-content {
+  background-image:url('../images/BannerMid.png') !important;
+  width:99.50%;
+  height: 100%;
+  float:left;
+}
+div#banner-left{
+  background-image:url('../images/BannerLeft.PNG') !important;
+  width:.25%;
+  background-repeat:no-repeat;
+  height: 100%;
+  float:left;
+}
+div#banner-right{
+  background-image:url('../images/BannerRight.png') !important;
+  width:.25%;
+  background-repeat:no-repeat;
+  height: 100%;
+  float:left;
+}
+div#logo {
+  background-image:url('../images/BigBrainz.png') !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 180px;
+  height: 90px;
+  background-repeat:no-repeat;
+  background-position:center;
+}
+div#il-logo-on {
+  background-image:url('../images/Imagine Learning Logo 4.png') !important;
+  position: absolute;
+  background-position:right;
+  width: 100%;
+  height: 90px;
+  background-repeat:no-repeat;
+  top: 0;
+  left: 0;
+}
+div#deluxe {
+  background-image:url('../images/UnlockDeluxe.png') !important;
+  position: absolute;
+  background-position:center center;
+  width: 100%;
+  height: 90px;
+  background-repeat:no-repeat;
+  top: 0;
+  left: 0;
+}
+div#deluxeunlocked {
+  background-image:url('../images/DeluxeUnlocked.png') !important;
+  position: absolute;
+  background-position:center center;
+  width: 100%;
+  height: 90px;
+  background-repeat:no-repeat;
+  top: 0;
+  left: 0;
+}
+div#deluxe:hover {
+  background-image:url('../images/UnlockDeluxeHover.png') !important;
+  position: absolute;
+  background-position:center center;
+  width: 100%;
+  height: 90px;
+  background-repeat:no-repeat;
+  top: 0;
+  left: 0;
+}
+div#pilotdeluxe {
+  background-image:url('../images/PilotDeluxe.png') !important;
+  position: absolute;
+  background-position:center center;
+  width: 100%;
+  height: 90px;
+  background-repeat:no-repeat;
+  top: 0;
+  left: 0;
+}
+div#pilotunlocked {
+  background-image:url('../images/PilotUnlocked.png') !important;
+  position: absolute;
+  background-position:center center;
+  width: 100%;
+  height: 90px;
+  background-repeat:no-repeat;
+  top: 0;
+  left: 0;
+}
+div#pilotdeluxe:hover {
+  background-image:url('../images/PilotDeluxeHover.png') !important;
+  position: absolute;
+  background-position:center center;
+  width: 100%;
+  height: 90px;
+  background-repeat:no-repeat;
+  top: 0;
+  left: 0;
+}
+div#pizza {
+  background-image:url('../images/Free-Pizza-Party.png') !important;
+  position: absolute;
+  background-position:center center;
+  width: 100%;
+  height: 90px;
+  background-repeat:no-repeat;
+  top: 0;
+  left: 0;
+}
+div#pizza:hover {
+  background-image:url('../images/Free-Pizza-Party-Hover.png') !important;
+  position: absolute;
+  background-position:center center;
+  width: 100%;
+  height: 90px;
+  background-repeat:no-repeat;
+  top: 0;
+  left: 0;
+}
+.x-panel-header {
+  text-align: center;
+}
+.x-panel-header-text {
+  font-size:150%
+}
+.x-tab-inner {
+  font-size:125%
+}
+
+.apple-icon {
+  background-image: url('../images/Apple-Icon_16x16.png') !important;
+  height: 16px;
+  width: 16px;
+  background-repeat:no-repeat;
+}
+.student-icon {
+  background-image: url('../images/Student-Icon_16x16.png') !important;
+  height: 16px;
+  width: 16px;
+  background-repeat:no-repeat;
+}
+.school-icon {
+  background-image: url('../images/School-Icon_16x16.png') !important;
+  height: 16px;
+  width: 16px;
+  background-repeat:no-repeat;
+}
+.x-column-header-text {
+  text-align: center;
+}
+
+
+.center-cell  {
+  text-align: center;
+  font-weight:bold;
+}
+.x-tree-icon-leaf {
+    background-image: url('../images/Student-Icon_16x16.png');
+    width: 16px;
+}
+.x-tree-icon-parent {
+    background-image: url('../images/Apple-Icon_16x16.png');
+    width: 16px;
+}
+/*
+.x-grid-tree-node-expanded {
+    background-image: url('../images/Apple-Icon_16x16.png');
+    width: 16px;
+}
+*/
+.treenode-no-icon
+{
+    display : none !important;
+}
+table.progressGrid {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  padding: 0;
+}
+
+.progressGrid td {
+  width: 80px;
+  height: 40px;
+  margin: 0;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  /* padding: 15px 15px 15px 15px; */
+  background-image: url('../images/FactProgressButton80_Gray.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  color: black;
+  text-align: center;
+  font-size: 16pt;
+  font-weight: bold;
+  /*
+  text-shadow: 
+    -1px -1px 3px white,
+    1px -1px 3px white,
+    -1px 1px 3px white,
+    1px 1px 3px white;
+    */
+}
+.pizzaclassred
+{
+  color:#FF0000;
+}
+.pizzaclassred a span
+{
+  color:#FF0000;
+}
+.progressGrid .passed {
+  background-image: url('../images/FactProgressButton80_Green.png');
+}
+
+.progressGrid .ready {
+  background-image: url('../images/FactProgressButton80_Blue.png');
+}
+
+.progressGrid .inProgress {
+  background-image: url('../images/FactProgressButton80_Yellow.png');
+}
+
+.progressGrid .missed {
+  background-image: url('../images/FactProgressButton80_Red.png');
+}
+
+.progressGrid .notTested {
+  visibility:hidden;
+}
+
+.mult-icon {
+  background-image: url('../images/mult-icon.png') !important;
+}
+.div-icon {
+  background-image: url('../images/div-icon.png') !important;
+}
+.addsub-icon {
+  background-image: url('../images/addsub-icon.png') !important;
+}
+.no-image .x-mask-msg-text {
+  background-image: none;
+}
