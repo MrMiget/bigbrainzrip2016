@@ -1,0 +1,74 @@
+            Server Version Instructions
+
+In the server version of Timez Attack you can assign
+names to the different classroom groups, lock the
+version selection, and lock the options. We've 
+purposely made these instructions a bit un-intuitive
+so that children don't mess up your settings.
+
+1. ASSIGN NAMES TO CLASSES:
+   Select any class and then in the "New Game" slot,
+   type "C#=" followed by the desired name--where "#"
+   represents the # of the class you're assigning.
+
+	EXAMPLE:
+	C1=Mrs. Ross
+
+	RESULT:
+	"Mrs. Ross" shows up instead of "Class 1"
+     
+   This only needs to be done once, and can be done
+   from any computer.
+
+2. LOCK THE SCHOOL/HOME VERSION SELECTION:
+   Similar to #1, but type in the "New Game" space you
+   will type either "VersionLock" or "VersionUnlock" to 
+   lock or unlock the ability to switch back and forth
+   between the Home and School version.  This only needs
+   to be done once, and can be done from any computer.
+
+3. LOCK THE OPTIONS:  
+   Same as #1 and #2, but in the "New Game" space you
+   will type either "OptionsLock" or "OptionsUnlock"
+   to lock or unlock the Options menu.  This only needs
+   to be done once, and can be done from any computer.
+
+4. LOCK THE NAMES:
+   Sometimes students will choose to add inappropriate
+   names to the game.  To avoid this you can lock the
+   players games so that they cannot add new ones.
+
+   This is done just like #1 - #3, but in the "New Game"
+   space you will type either "nameslock" or "namesunlock". 
+
+5. SPEED UP OR SLOW DOWN THE BOSS:
+   Occasionally you may have a student who needs a com-
+   pletely different difficulty level.  To do this you
+   first unlock the time settings by calling a new game
+   "TimeUnlock".  Then start the game for the student
+   and press either "m" to add MORE time or "n" to 
+   decrease the allowed time.  After you have adjusted
+   the speed, lock the time again by titling a new game
+   "TimeLock".  A different speed would need to be set
+   for each game--but only once.
+
+6. UPDATING AUDIO CODEC:
+   If you install Timez Attack ONLY on the server, the
+   individual computers will likely be missing a Codec.
+   The game is programmed to automatically detect this
+   absence and install the missing codec the first time
+   you launch the shortcut to the game on each PC.
+
+   However, due to size limitations, this auto-install
+   of the codec feature is not available in the free
+   version.  Please either call us to demo the full
+   version or go to each computer and run OggDS0994.exe
+   from the "data" folder where you've installed Timez
+   Attack.
+
+If we've made any of this TOO cryptic, please call
+us toll-free at 877 356-7040.
+
+Best wishes,
+
+Big Brainz
