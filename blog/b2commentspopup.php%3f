@@ -1,0 +1,188 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Ben'z Blog - comments on 'Parents Do Care'</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="reply-to" content="you@yourdomain.com" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta content="TRUE" name="MSSmartTagsPreventParsing" />
+
+<style type="text/css" media="screen">
+@import url( layout2b.css );
+</style>
+<link rel="stylesheet" type="text/css" media="print" href="print.css" />
+<link rel="alternate" type="application/rdf+xml" title="RDF" href="http://www.bigbrainz.com/blog/b2rdf.php" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.bigbrainz.com/blog/b2rss2.php" />
+</head>
+<body>
+<div id="header"><a href="" title="Ben'z Blog">Ben'z Blog</a></div>
+
+<div id="contentcomments">
+
+<div class="storyContent">
+
+
+
+
+<!-- you can start editing here -->
+
+<a name="comments"></a>
+<p>&nbsp;</p>
+<div><strong><span style="color: #0099CC">::</span> comments</strong></div>
+<p>&nbsp;</p>
+
+
+<div><strong><span style="color: #0099CC">::</span> leave a comment</strong></div>
+<p>&nbsp;</p>
+
+
+<!-- form to add a comment -->
+
+<form action="b2comments.post.php" method="post">
+	<input type="hidden" name="comment_post_ID" value="6" />
+	<input type="hidden" name="redirect_to" value="/blog/b2commentspopup.php?" />
+
+	<p class="commentfield">
+	name<br />
+	<input type="text" name="author" class="textarea" value="name" size="20" tabindex="1" 
+	onfocus="this.value=(this.value=='name') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'name' : this.value;" />
+	</p>
+
+	<p class="commentfield">
+	email<br />
+	<input type="text" name="email" class="textarea" value="email" size="20" tabindex="2" 
+	onfocus="this.value=(this.value=='email') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'email' : this.value;" /> 
+	</p>
+
+	<p class="commentfield">
+	url<br />
+	<input type="text" name="url" class="textarea" value="http://url" size="20" tabindex="3" 
+	onfocus="this.value=(this.value=='http://url') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'http://url' : this.value;" />
+	</p>
+
+	<p class="commentfield">
+	your comment<br />
+	<textarea cols="40" rows="4" name="comment" tabindex="4" class="textarea"
+    onfocus="this.value=(this.value=='comment') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'comment' : this.value;" >comment</textarea>
+	</p>
+
+	<p class="commentfield">
+	<input type="checkbox" name="comment_autobr" value="1"  checked="checked" tabindex="6" /> Auto-BR (line-breaks become &lt;br> tags)<br />
+	<input type="submit" name="submit" class="buttonarea" value="ok" tabindex="5" />
+	</p>
+
+</form>
+
+<!-- /form -->
+
+
+<p>&nbsp;</p>
+<div><b><span style="color: #0099CC">::</span> <a href="javascript:window.close()">close this window</a></b></div>
+
+
+</div>
+
+
+<!-- // this is just the end of the motor - don't touch that line either :) -->
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Ben'z Blog - comments on 'Spam Attacks and New Macs'</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="reply-to" content="you@yourdomain.com" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta content="TRUE" name="MSSmartTagsPreventParsing" />
+
+<style type="text/css" media="screen">
+@import url( layout2b.css );
+</style>
+<link rel="stylesheet" type="text/css" media="print" href="print.css" />
+<link rel="alternate" type="application/rdf+xml" title="RDF" href="http://www.bigbrainz.com/blog/b2rdf.php" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.bigbrainz.com/blog/b2rss2.php" />
+</head>
+<body>
+<div id="header"><a href="" title="Ben'z Blog">Ben'z Blog</a></div>
+
+<div id="contentcomments">
+
+<div class="storyContent">
+
+
+
+
+<!-- you can start editing here -->
+
+<a name="comments"></a>
+<p>&nbsp;</p>
+<div><strong><span style="color: #0099CC">::</span> comments</strong></div>
+<p>&nbsp;</p>
+
+
+<div><strong><span style="color: #0099CC">::</span> leave a comment</strong></div>
+<p>&nbsp;</p>
+
+
+<!-- form to add a comment -->
+
+<form action="b2comments.post.php" method="post">
+	<input type="hidden" name="comment_post_ID" value="5" />
+	<input type="hidden" name="redirect_to" value="/blog/b2commentspopup.php?" />
+
+	<p class="commentfield">
+	name<br />
+	<input type="text" name="author" class="textarea" value="name" size="20" tabindex="1" 
+	onfocus="this.value=(this.value=='name') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'name' : this.value;" />
+	</p>
+
+	<p class="commentfield">
+	email<br />
+	<input type="text" name="email" class="textarea" value="email" size="20" tabindex="2" 
+	onfocus="this.value=(this.value=='email') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'email' : this.value;" /> 
+	</p>
+
+	<p class="commentfield">
+	url<br />
+	<input type="text" name="url" class="textarea" value="http://url" size="20" tabindex="3" 
+	onfocus="this.value=(this.value=='http://url') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'http://url' : this.value;" />
+	</p>
+
+	<p class="commentfield">
+	your comment<br />
+	<textarea cols="40" rows="4" name="comment" tabindex="4" class="textarea"
+    onfocus="this.value=(this.value=='comment') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'comment' : this.value;" >comment</textarea>
+	</p>
+
+	<p class="commentfield">
+	<input type="checkbox" name="comment_autobr" value="1"  checked="checked" tabindex="6" /> Auto-BR (line-breaks become &lt;br> tags)<br />
+	<input type="submit" name="submit" class="buttonarea" value="ok" tabindex="5" />
+	</p>
+
+</form>
+
+<!-- /form -->
+
+
+<p>&nbsp;</p>
+<div><b><span style="color: #0099CC">::</span> <a href="javascript:window.close()">close this window</a></b></div>
+
+
+</div>
+
+
+<!-- // this is just the end of the motor - don't touch that line either :) -->
+	 
+
+
+</div>
+
+<p class="centerP">
+[powered by <a href="http://cafelog.com" target="_blank"><b>b2</b></a>.]
+</p>
+
+
+</body>
+</html>

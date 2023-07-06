@@ -1,0 +1,29 @@
+$mrjQ = jQuery.noConflict();
+(function($){var a={},c="doTimeout",d=Array.prototype.slice;$[c]=function(){return b.apply(window,[0].concat(d.call(arguments)))};$.fn[c]=function(){var f=d.call(arguments),e=b.apply(this,[c+f[0]].concat(f));return typeof f[0]==="number"||typeof f[1]==="number"?this:e};function b(l){var m=this,h,k={},g=l?$.fn:$,n=arguments,i=4,f=n[1],j=n[2],p=n[3];if(typeof f!=="string"){i--;f=l=0;j=n[1];p=n[2]}if(l){h=m.eq(0);h.data(l,k=h.data(l)||{})}else{if(f){k=a[f]||(a[f]={})}}k.id&&clearTimeout(k.id);delete k.id;function e(){if(l){h.removeData(l)}else{if(f){delete a[f]}}}function o(){k.id=setTimeout(function(){k.fn()},j)}if(p){k.fn=function(q){if(typeof p==="string"){p=g[p]}p.apply(m,d.call(n,i))===true&&!q?o():e()};o()}else{if(k.fn){j===undefined?e():k.fn(j===false);return true}else{e()}}}})($mrjQ);
+$mrjQ(function(){$mrjQ("a.myrp_tooltip").click(function(){return false;});});function myrp_ismaxlength(obj){var mlength=obj.getAttribute? parseInt(obj.getAttribute("maxlength")):""
+if (obj.getAttribute && obj.value.length>mlength)
+obj.value=obj.value.substring(0,mlength)}function myrp_isNumberKey(evt){var charCode = (evt.which) ? evt.which:event.keyCode
+if (charCode > 31 && (charCode < 48 || charCode > 57) && charCode != 46)
+return false;return true;}
+function myrp_ismaxnumber(obj){var mlength=obj.getAttribute? parseInt(obj.getAttribute("maxnumber")):""
+var milength=obj.getAttribute? parseInt(obj.getAttribute("minnumber")):""
+if (obj.getAttribute && obj.value>mlength)
+obj.value=mlength;if (obj.getAttribute && obj.value<milength)
+obj.value=milength;}
+function myrp_setDisabledValue(radioObj, disabled){if(!radioObj)
+return "";var radioLength = radioObj.length;if(radioLength == undefined)
+radioObj.disabled = disabled;var anyChecked=false;for(var i = 0;i < radioLength;i++){radioObj[i].disabled=disabled;if(radioObj[i].checked==true) anyChecked=true;}
+if(disabled == false && anyChecked == false){radioObj[0].checked=true;}
+return "";}
+function myrp_getCheckedValue(radioObj){if(!radioObj)
+return "";var radioLength = radioObj.length;if(radioLength == undefined)
+if(radioObj.checked)
+return radioObj.value;else
+return "";for(var i = 0;i < radioLength;i++){if(radioObj[i].checked){return radioObj[i].value;}}return "";}
+function myrp_KeyDownHandler(e, btn){var eventInstance = window.event ? event:e;if (window.event){if (eventInstance.keyCode == 13){eventInstance.returnValue = false;eventInstance.cancel = true;var obj = document.getElementById(btn);obj.click();return false;}}else if (eventInstance.which){if (eventInstance.which == 13){eventInstance.returnValue = false;eventInstance.preventDefault();eventInstance.cancelBubble = true;var obj = document.getElementById(btn);obj.click();return false;}}return true;}
+function myrp_noenter(e){var key;if(window.event)
+key = window.event.keyCode;else
+key = e.which;if(key == 13)
+return false;else
+return true;}
+function myrp_cast_helpful(commentid, positive){var mysack = new sack("https://www.bigbrainz.com/blog/wp-admin/admin-ajax.php" );mysack.execute = 1;mysack.method = 'POST';mysack.setVar( "action", "myrp_ajax_cast_helpful" );mysack.setVar( "vote", positive );mysack.setVar( "commentid", commentid );mysack.encVar( "cookie", document.cookie, false );mysack.onError = function(){alert('AJAX error in marking comment helpful.' )};mysack.onCompletion = function(){};mysack.runAJAX();}

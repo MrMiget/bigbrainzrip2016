@@ -1,0 +1,59 @@
+
+#myrp_stars_display html, #myrp_stars_display body, #myrp_stars_display div, #myrp_stars_display span,
+#myrp_stars_display  p, #myrp_stars_display blockquote, #myrp_stars_display  pre,
+#myrp_stars_display a,
+#myrp_stars_display em, #myrp_stars_display font, #myrp_stars_display img,
+#myrp_stars_display small, #myrp_stars_display strike, #myrp_stars_display strong, #myrp_stars_display sub, #myrp_stars_display sup,
+#myrp_stars_display b, #myrp_stars_display u,#myrp_stars_display  i, #myrp_stars_display center,
+#myrp_stars_display  ol, #myrp_stars_display ul, #myrp_stars_display li,
+#myrp_stars_display fieldset, #myrp_stars_display form, #myrp_stars_display label, #myrp_stars_display legend,
+#myrp_stars_display table, #myrp_stars_display caption, #myrp_stars_display tbody, #myrp_stars_display tfoot, #myrp_stars_display thead, #myrp_stars_display tr, #myrp_stars_display th, #myrp_stars_display td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+#myrp_stars_display body {
+	line-height: 1;
+}
+#myrp_stars_display ol,#myrp_stars_display  ul {
+	list-style: none;
+}
+
+/* remember to define focus styles! */
+#myrp_stars_display :focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+#myrp_stars_display ins {
+	text-decoration: none;
+}
+#myrp_stars_display del {
+	text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+#myrp_stars_display table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/* jQuery.Rating Plugin CSS - http://www.fyneworks.com/jquery/star-rating/ */
+.star { margin: 0; display:none; }
+/*div.rating-cancel,div.star-rating{margin-top:2px;margin-left:0;padding:0;float:left;width:12px;height:12px;text-indent:-999em;cursor:pointer;display:block;background:transparent;overflow:hidden;}*/
+div.star-rating,div.star-rating a{background:url(../images/stars/default-star.png) no-repeat 0 0}
+div.rating-cancel,div.rating-cancel a{background:url(./delete.gif) no-repeat 0 -12px}
+div.rating-cancel a,div.star-rating a{display:block;height:100%;background-position:0px 0px;border:0}
+div.rating-cancel a:hover { background-position: 0 -12px!important; }
+div.star-rating-on a{background-position:0 -12px }
+div.star-rating-hover a{background-position:0 -24px}
+/* Read Only CSS */
+div.star-rating-readonly a{cursor:default !important}
+/* Partial Star CSS */
+div.star-rating{background:transparent!important;overflow:hidden!important}
+/* END jQuery.Rating Plugin CSS */
