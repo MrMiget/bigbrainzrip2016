@@ -1,0 +1,1093 @@
+/*
+(c)Copyright Octeth Technologies. All rights reserved.
+For more information about copyright and licensing,
+please contact inquiries@octeth.com.
+
+CSS version: 1.0
+
+Octeth Technologies
+www.octeth.com
+inquiries@octeth.com
+*/
+
+body {
+background-color: #EAEAEA;
+margin: 0px;
+
+min-width: 750px;
+}
+
+#Header {
+text-align: center;
+padding: 0px 0px 0px 0px;
+margin: 0px auto 0px auto;
+}
+
+	#Header a {
+	color: #FFFFFF;
+	text-decoration: none;
+	}
+	
+	#Header a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+	}
+	
+	#Header a:active {
+	color: #FFFFFF;
+	text-decoration: none;
+	}
+	
+	#Header a:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+	}
+
+	#Header #LogoTable {
+	width: 750px;
+	height: 89px;
+	background-color: #6490D1;
+	text-align: center;
+
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+		#Header #LeftTD {
+		text-align: left;
+		width: 200px;
+		}
+		
+		#Header #RightTD {
+		text-align:right;
+		vertical-align:top;
+		
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 12px;
+		font-weight: bold;
+		color: #FFFFFF;
+		
+		letter-spacing: 1px;
+		padding-top: 5px;
+		padding-right: 10px;
+		}
+
+	#Header #MenuTable {
+	width: 750px;
+	height: 32px;
+
+	text-align: left;
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	
+	letter-spacing: 1px;
+
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+#Footer {
+text-align: center;
+margin-top: 8px;
+}
+
+	#Footer table {
+	width: 750px;
+
+	text-align: left;
+	vertical-align: middle;
+	
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFFFFF;
+
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+		#Footer table a {
+		color: #FFFFFF;
+		text-decoration: none;
+		}
+		
+		#Footer table a:visited {
+		color: #FFFFFF;
+		text-decoration: none;
+		}
+		
+		#Footer table a:active {
+		color: #FFFFFF;
+		text-decoration: none;
+		}
+		
+		#Footer table a:hover {
+		color: #FFFFFF;
+		text-decoration: underline;
+		}
+
+
+#PageName {
+text-align: center;
+margin-top: 8px;
+}
+
+	#PageName table {
+	width: 750px;
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:  bold;
+	font-size: 14px;
+	color: #7E7E6B;
+	
+	text-align: left;
+	vertical-align: middle;
+
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+
+#PageContent {
+text-align: center;
+margin-top: 8px;
+}
+
+	#PageContent #PageContentTable {
+	width: 750px;
+
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+
+
+
+
+
+
+/*
+(c)Copyright Octeth Technologies. All rights reserved.
+For more information about copyright and licensing,
+please contact inquiries@octeth.com.
+0098FF
+CSS version: 1.0rc
+
+Octeth Technologies
+www.octeth.com
+inquiries@octeth.com
+*/
+
+/* TEMPLATE BODY - STARTED */
+#LogoBar {
+background-image:url(../../media/images/theme/004.gif);
+height: 70px;
+}
+
+#LogoBarTD {
+height: 70px;
+}
+
+#LogoBar table {
+width: 100%;
+}
+
+#LogoTD {
+width: 390px;
+text-align:left;
+vertical-align:top;
+}
+
+#FooterBar #OctethLogoTD {
+text-align: right;
+vertical-align: top;
+
+padding-right: 10px;
+
+height: 21px;
+}
+
+#ContentBar #ContentTD {
+text-align: left;
+vertical-align: top;
+}
+
+.ListTable {
+width: 100%;
+}
+
+#ListScrollArea {
+max-height:400px;
+overflow:auto;
+height:expression(this.scrollHeight > 400 ? "400px" : "auto" );
+}
+
+#NewsScrollArea {
+max-height:100px;
+overflow:auto;
+height:expression(this.scrollHeight > 100 ? "100px" : "auto" );
+}
+
+.ListTable td {
+font-family: Arial, Helvetica, sans-serif;
+font-weight:  normal;
+font-size: 12px;
+color: #000000;
+
+height: auto;
+
+padding-bottom: 5px;
+}
+
+.ListTable .FieldLabelColumn {
+width: 150px;
+text-align: left;
+vertical-align: top;
+}
+
+	.ListTable .FieldLabelColumn a {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldLabelColumn a:visited {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldLabelColumn a:active {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldLabelColumn a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+.ListTable .FieldValueColumn {
+
+}
+
+	.ListTable .FieldValueColumn a {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldValueColumn a:visited {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldValueColumn a:active {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldValueColumn a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+	.ListTable .FieldValueColumn input,textarea,select {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	}
+
+	.ListTable .FieldButtonColumn input {
+	}
+
+.ListTable .FieldErrorColumn {
+color: #FF0000;
+}
+
+	.ListTable .FieldErrorColumn a {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldErrorColumn a:visited {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldErrorColumn a:active {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldErrorColumn a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+
+.ListTable .FieldButtonColumn {
+text-align: right;
+vertical-align: top;
+}
+
+	.ListTable .FieldButtonColumn a {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldButtonColumn a:visited {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldButtonColumn a:active {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .FieldButtonColumn a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+.ListTable .ListRowsTable .Header td {
+font-weight: bold;
+}
+
+	.ListTable .ListRowsTable .Header a {
+	color: #000000;
+	text-decoration: none;
+	}
+	
+	.ListTable .ListRowsTable .Header a:visited {
+	color: #000000;
+	text-decoration: none;
+	}
+	
+	.ListTable .ListRowsTable .Header a:active {
+	color: #000000;
+	text-decoration: none;
+	}
+	
+	.ListTable .ListRowsTable .Header a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+.ListTable .ListRowsTable .HeaderSeperator td {
+height: 1px;
+background-image:url(../../media/images/theme/008.gif);
+}
+
+.ListTable .ListRowsTable .RowSeperator .RowSeperatorActive {
+height: 19px;
+background-image:url(../../media/images/theme/012.gif);
+}
+
+.ListTable .ListRowsTable .RecordRow td {
+text-align: left;
+vertical-align: middle;
+}
+
+	.ListTable .ListRowsTable .RecordRow a {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .ListRowsTable .RecordRow a:visited {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .ListRowsTable .RecordRow a:active {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.ListTable .ListRowsTable .RecordRow a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+
+.FormTablePopUp {
+width: 100%;
+}
+
+.FormTablePopUp td {
+font-family: Arial, Helvetica, sans-serif;
+font-weight:  normal;
+font-size: 12px;
+color: #000000;
+
+padding-bottom: 5px;
+}
+
+.FormTablePopUp .FieldLabelColumn {
+width: 150px;
+text-align: left;
+vertical-align: top;
+}
+
+	.FormTablePopUp .FieldLabelColumn a {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldLabelColumn a:visited {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldLabelColumn a:active {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldLabelColumn a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+.FormTablePopUp .FieldValueColumn {
+
+}
+
+	.FormTablePopUp .FieldValueColumn a {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldValueColumn a:visited {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldValueColumn a:active {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldValueColumn a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+	.FormTablePopUp .FieldValueColumn input,textarea,select {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	}
+
+	.FormTablePopUp .FieldButtonColumn input {
+	}
+
+	.FormTablePopUp .FieldValueColumn .FieldValueColumnFieldError {
+	background-color: #FF0000;
+	color: #FFFFFF;
+	font-weight: bold;
+	}
+
+.FormTablePopUp .FieldErrorColumn {
+color: #FF0000;
+}
+
+	.FormTablePopUp .FieldErrorColumn a {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldErrorColumn a:visited {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldErrorColumn a:active {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldErrorColumn a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+
+.FormTablePopUp .FieldButtonColumn {
+text-align: right;
+vertical-align: top;
+}
+
+	.FormTablePopUp .FieldButtonColumn a {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldButtonColumn a:visited {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldButtonColumn a:active {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTablePopUp .FieldButtonColumn a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+.FormTable {
+width: 100%;
+}
+
+.FormTable td {
+font-family: Arial, Helvetica, sans-serif;
+font-weight:  normal;
+font-size: 12px;
+color: #000000;
+
+padding-bottom: 5px;
+}
+
+.FormTable .FieldLabelColumn {
+width: 150px;
+text-align: left;
+vertical-align: top;
+}
+
+	.FormTable .FieldLabelColumn a {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldLabelColumn a:visited {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldLabelColumn a:active {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldLabelColumn a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+.FormTable .FieldValueColumn {
+
+}
+
+	.FormTable .FieldValueColumn a {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldValueColumn a:visited {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldValueColumn a:active {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldValueColumn a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+	.FormTable .FieldValueColumn input,textarea,select {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	}
+
+	.FormTable .FieldButtonColumn input {
+	}
+
+	.FormTable .FieldValueColumn .FieldValueColumnFieldError {
+	background-color: #FF0000;
+	color: #FFFFFF;
+	font-weight: bold;
+	}
+
+.FormTable .FieldErrorColumn {
+color: #FF0000;
+}
+
+	.FormTable .FieldErrorColumn a {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldErrorColumn a:visited {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldErrorColumn a:active {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldErrorColumn a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+
+.FormTable .FieldButtonColumn {
+text-align: right;
+vertical-align: top;
+}
+
+	.FormTable .FieldButtonColumn a {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldButtonColumn a:visited {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldButtonColumn a:active {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	.FormTable .FieldButtonColumn a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+/* TEMPLATE BODY - FINISHED */
+
+/* CONTENT - STARTED */
+#ContentBar #ContentTD h1 {
+font-family: Arial, Helvetica, sans-serif;
+font-weight:  bold;
+font-size: 18px;
+color: #7E7E6B;
+
+background-color: #FBFBD6;
+
+height: 22px;
+
+vertical-align: middle;
+
+border-top-color: #FCFCE2;
+border-top-width: 2px;
+border-top-style: solid;
+
+border-bottom-color: #DFDFBF;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+
+padding: 2px 0px 0px 0px;
+margin: 0px 0px 10px 0px;
+}
+
+#ContentBar #ContentTD .PageMessage {
+font-family: Arial, Helvetica, sans-serif;
+font-weight:  bold;
+font-size: 12px;
+color: #FF0000;
+
+background-color: #FFFEEA;
+
+padding-left: 16px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 16px;
+
+border-width: 1px;
+border-color: #CCCCCC;
+border-style: dashed;
+}
+
+	#ContentBar #ContentTD .PageMessage a {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	#ContentBar #ContentTD .PageMessage a:visited {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	#ContentBar #ContentTD .PageMessage a:active {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+	
+	#ContentBar #ContentTD .PageMessage a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+
+#ContentBar #ContentTD p,ul {
+font-family: Arial, Helvetica, sans-serif;
+font-weight:  normal;
+font-size: 12px;
+color: #000000;
+
+margin-top: 5px;
+margin-bottom: 10px;
+}
+	#ContentBar #ContentTD .StrongNotice {
+	color: #333333;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	}
+
+	#ContentBar #ContentTD p a {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	#ContentBar #ContentTD p a:visited {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	#ContentBar #ContentTD p a:active {
+	color: #000000;
+	text-decoration: underline;
+	}
+	
+	#ContentBar #ContentTD p a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+	#ContentBar #ContentTD ul a {
+	color: #000000;
+	text-decoration: none;
+	}
+	
+	#ContentBar #ContentTD ul a:visited {
+	color: #000000;
+	text-decoration: none;
+	}
+	
+	#ContentBar #ContentTD ul a:active {
+	color: #000000;
+	text-decoration: none;
+	}
+	
+	#ContentBar #ContentTD ul a:hover {
+	color: #000000;
+	text-decoration: underline;
+	}
+
+.PageMenu {
+padding-bottom: 15px;
+}
+
+	.PageMenu a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:  bold;
+	font-size: 12px;
+	color: #000000;
+
+	text-decoration: none;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #666666;
+
+	background-color:#CCCCCC;
+	
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	}
+
+	.PageMenu a:hover {
+	background-color:#999999;
+	color: #FFFFFF;
+	}
+
+	.PageMenu a:visited {
+	}
+
+	.PageMenu a:active {
+	}
+
+	.PageMenu .Current {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:  bold;
+	font-size: 12px;
+	color: #FBFBD6;
+
+	text-decoration: none;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #666666;
+
+	background-color:#7E7E6B;
+	
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	}
+
+	.PageMenu .Current:hover {
+	background-color:#7E7E6B;
+	color: #FBFBD6;
+	}
+
+	.PageMenu .Current:visited {
+	}
+
+	.PageMenu .Current:active {
+	}
+
+.ActionSteps {
+padding-bottom: 15px;
+}
+
+	.ActionSteps .Passed {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:  bold;
+	font-size: 12px;
+	color: #CCCCCC;
+
+	text-decoration: none;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #666666;
+
+	background-color:#FBFBD6;
+	
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	}
+
+	.ActionSteps .Next:hover {
+	background-color:#FBFBD6;
+	color: #CCCCCC;
+	}
+
+	.ActionSteps .Passed:visited {
+	}
+
+	.ActionSteps .Passed:active {
+	}
+	
+	.ActionSteps .Current {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:  bold;
+	font-size: 12px;
+	color: #FBFBD6;
+
+	text-decoration: none;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #666666;
+
+	background-color:#7E7E6B;
+	
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	}
+
+	.ActionSteps .Current:hover {
+	background-color:#7E7E6B;
+	color: #FBFBD6;
+	}
+
+	.ActionSteps .Current:visited {
+	}
+
+	.ActionSteps .Current:active {
+	}
+
+	.ActionSteps .Next {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight:  bold;
+	font-size: 12px;
+	color: #CCCCCC;
+
+	text-decoration: none;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #666666;
+
+	background-color:#FBFBD6;
+	
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	}
+
+	.ActionSteps .Next:hover {
+	background-color:#FBFBD6;
+	color: #CCCCCC;
+	}
+
+	.ActionSteps .Next:visited {
+	}
+
+	.ActionSteps .Next:active {
+	}
+
+#ContentBar #ContentTD .QuickTipMessage {
+font-family: Arial, Helvetica, sans-serif;
+font-weight:  normal;
+font-size: 12px;
+color: #7E7E6B;
+
+background-color: #FBFBD6;
+/*
+background-image:url(../../media/images/theme/logo_oemp.gif);
+background-repeat: no-repeat;
+*/
+
+
+
+margin: 10px auto 10px auto;
+
+padding-left: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-right: 10px;
+
+border-width: 1px;
+border-color: #CCCCCC;
+border-style: dashed;
+}
+
+	#ContentBar #ContentTD .QuickTipMessage a {
+	color: #7E7E6B;
+	text-decoration: underline;
+	}
+	
+	#ContentBar #ContentTD .QuickTipMessage a:visited {
+	color: #7E7E6B;
+	text-decoration: underline;
+	}
+	
+	#ContentBar #ContentTD .QuickTipMessage a:active {
+	color: #7E7E6B;
+	text-decoration: underline;
+	}
+	
+	#ContentBar #ContentTD .QuickTipMessage a:hover {
+	color: #7E7E6B;
+	text-decoration: underline;
+	}
+/* CONTENT - FINISHED */
+
+/* ---- STYLE OF FIELDS - START ----- */
+#PageContent #PageContentTable #ContentBar #ContentTD fieldset {
+border-color: #CCCCCC;
+border-width: 1px;
+border-style: dotted;
+padding:10px;
+}
+
+#PageContent #PageContentTable #ContentBar #ContentTD fieldset label {
+cursor: pointer;
+}
+
+#PageContent #PageContentTable #ContentBar #ContentTD fieldset legend {
+font-family: Arial, Helvetica, sans-serif;
+font-weight:  bold;
+font-size: 12px;
+color: #6490D1;
+letter-spacing: 2px;
+
+background-color: #FFFFFF;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+#PageContent #PageContentTable #ContentBar #ContentTD .FormTable {
+margin: 10px 10px 10px 10px;
+width: 90%;
+}
+
+#PageContent #PageContentTable #ContentBar #ContentTD fieldset optgroup {
+font-weight: bold;
+font-style: normal;
+}
+/* ---- STYLE OF FIELDS - END ----- */
+
+/* ---- STYLE OF MENU TABLES - START ----- */
+#PageContent #PageContentTable #ContentBar #ContentTD #OptionsTable td a {
+color: #333333;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+font-weight: bold;
+}
+/* ---- STYLE OF MENU TABLES - END ----- */
+
+.PageNameTitle {
+padding-left: 15px;
+}
+
+/* ---- STYLE OF FILTER BOXES - START ----- */
+#ShowHideFilter {
+background-color: #FBFBD6;
+border-width: 1px;
+border-style: solid;
+border-color: #D2D2C5;
+margin-bottom: 10px;
+padding-top: 5px;
+}
+/* ---- STYLE OF FILTER BOXES - START ----- */
+
+.LoggedInUser {
+font-weight: normal;
+text-align: right;
+font-size: 10px;
+padding-right: 10px;
+}
+
+.QuotaBox {
+border-width: 1px;
+border-style: solid;
+border-color: #999999;
+
+padding: 5px 5px 5px 5px;
+}
+
+.QuotaText {
+padding: 0;
+margin: 0;
+
+color: #333333;
+font: 16px Arial, Helvetica, sans-serif;
+font-weight: bold;
+}
+
+.CampaignSendNotice {
+background-color: #981616;
+color: #FFFFFF;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+.CampaignBrowse {
+font-size: 18px !important;
+}

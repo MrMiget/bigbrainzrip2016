@@ -1,0 +1,214 @@
+/*
+// ======================================================================================================================================
+	'SELECT SCHOOL' styles
+// ======================================================================================================================================
+*/
+
+.SelectSchoolPage_BacklinkTextClass
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 150%;
+	color: #002040;
+}
+.SelectSchoolPage_BacklinkTextClass:link
+{
+	color: #002040;
+	text-decoration: none;
+}
+.SelectSchoolPage_BacklinkTextClass:hover
+{
+	text-decoration: underline;
+}
+
+
+.SelectSchoolPage_LabelClass
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #003060;
+	font-weight: 900;
+}
+
+
+.SelectSchoolPage_OptionsClass
+{
+	width: 250px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: 002040;
+	display: Block;
+}
+
+
+.SelectSchoolPage_ButtonClass
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: 002040;
+}
+
+
+.SelectSchoolPage_PasswordLabel
+{
+	font-family: Comic Sans MS, Arial, Helvetica;
+	font-size: 25px;
+	font-weight: normal;
+	line-height: 200%;
+}
+
+
+.SelectSchoolPage_EnterPassword_LabelClass
+{
+}
+
+
+.SelectSchoolPage_EnterPassword_InputClass
+{
+}
+
+
+.SelectSchoolPage_EnterPassword_ButtonClass
+{
+}
+
+
+.SelectSchoolPage_ForgotPasswordTextClass
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 10px;
+	font-weight: normal;
+}
+.SelectSchoolPage_ForgotPasswordTextClass:link
+{
+	color: #000088;
+}
+
+
+.SelectSchoolPage_PasswordHintTextClass
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 11px;
+	font-weight: normal;
+	color: #880000;
+}
+
+
+.SelectSchoolPage_PasswordIncorrect
+{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 200%;
+	color: #ff0000;
+}
+.AdministrationPage_ClassesHeading
+{
+	color:#002040;
+	font-family:Georgia,"Times New Roman",Times,serif;
+	font-size:20px;
+	font-weight:normal;
+	padding: 0px 0px 0px 0px;
+	margin: 20px 0px -20px 0px;
+	text-decoration: underline;
+}
+.smallTextLittleBottomPadding
+{
+	color: #002040;
+	font-size: 14px;
+	font-weight: normal;
+	padding: 0px 0px 20px 0px;
+	margin: 0px;
+}
+.smallTextNoPadding
+{
+	color: #002040;
+	font-size: 14px;
+	font-weight: normal;
+	padding: 0px 0px 0px 0px;
+	margin: 0px;
+}
+.smallTextNegativeTopMargin
+{
+	color: #003060;
+	font-size: 14px;
+	font-weight: normal;
+	padding: 0px 0px 0px 0px;
+	margin: -10px 0px 0px 0px;	
+}
+div.link-list {
+        width:10.2em;
+        position:absolute;
+        top:0;
+        font-size:80%;
+        padding-left:1%;
+        padding-right:1%;
+        margin-left:0;
+        margin-right:0;
+}
+#main {
+        margin-left:10.2em;
+        margin-right:10.2em;
+        padding-left:1em;
+        padding-right:1em;
+}
+#list1 {
+        left:0;
+}
+#list2 {
+        right:0;
+}
+a.showTextLinkTopPadding
+{
+	color:#004080;
+	text-decoration:underline;
+	padding: 10px 0px 0px 0px;
+	margin: 10px 0px 0px 0px;
+}
+
+
+div#teacher {
+
+}
+div#teacher.hover {
+    border: 5px dashed #aaa;
+    background:#efefef; 
+}
+
+
+
+#nav, #nav ul { /* all lists */
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	line-height: 1;
+}
+ 
+#nav a {
+	display: block;
+	width: 5em;
+}
+ 
+#nav li { /* all list items */
+	float: left;
+	/*width: 5em; /* width needed or else Opera goes nuts */
+}
+ 
+#nav li ul { /* second-level lists */
+	position: absolute;
+	background: #efefef;
+	border:5px #aaa;
+	width: 5em;
+	left: -999em; /* using left instead of display to hide menus because display: none isn't read by screen readers */
+}
+ 
+#nav li:hover ul, #nav li.sfhover ul { /* lists nested under hovered list items */
+	left: auto;
+}
+
+span.explain { 
+	display:block; 
+	font-size:10px; 
+	color:#666666; 
+}	

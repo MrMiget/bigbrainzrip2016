@@ -1,0 +1,6 @@
+<form action="Online.php" method="post" name="form_230779793" >
+<input type="hidden" name="Action" value="ShowSchool" /> 
+<input type="hidden" name="ID" value="BB02691691445287031798420081208212648397961" /> 
+<input type="hidden" name="RegionType" value="school" /> 
+</form>
+<script> javascript:document.form_230779793.submit() </script>

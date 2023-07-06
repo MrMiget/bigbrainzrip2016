@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<title>Subscription Error</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-language" content="en-us" />
+	<style>
+		*				{ margin: 0; padding: 0; }
+		body 			{ font: normal 12px "Trebuchet MS", verdana, arial, helvetica, sans-serif; text-align: center; background: #fff; color: #000; }
+		h2				{ font: bold 22px "Trebuchet MS", verdana, arial, helvetica, sans-serif; color: #858585; padding-bottom: 14px; }
+		h2.title 		{ background-color: #818181; padding: 5px; color: #ffffff; }
+		h3				{ font: bold 18px "Trebuchet MS", verdana, arial, helvetica, sans-serif; color: #111; padding: 5px 0 12px 0; }
+		#messagebox		{ width: 400px; margin-left: auto; margin-right: auto; margin-top:50px; padding: 25px 20px 15px 20px; text-align: left; border: 1px solid #cecece; background-color: #e2e2e2;}
+		ol, ul			{ margin: 0 0 10px 15px; }
+		ol li, ul li	{ line-height: 18px; }
+		p				{ margin-bottom: 15px; font-size: 13px; }
+		p.notice		{ background-color: #f1f1f1; border: 1px #818181 solid; padding: 5px;}
+	</style>
+</head>
+<body>
+
+<div id="messagebox">
+	<h3>Error Occurred</h3>
+	<p>Please return back and try again. If problem continues, contact service provider.</p>
+</div>
+
+</body>
+</html>

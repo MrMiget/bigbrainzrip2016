@@ -1,0 +1,1 @@
+function CreateBookmarkLink(title,url){if(window.external){window.external.AddFavorite(url,title);}}
