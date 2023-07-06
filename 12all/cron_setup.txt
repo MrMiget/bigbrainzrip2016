@@ -1,0 +1,61 @@
+////////////////////////////////////////////////////////////////////////////////
+
+  ActiveCampaign, Inc.  -  1-2-All Broadcast Email Software
+
+--------------------------------------------------------------------------------
+
+
+********************************************************************************
+PLEASE NOTE THAT IT IS RECOMMENDED TO CONTACT YOUR WEB HOST OR SYSTEM 
+ADMIN TO COMPLETE THIS IF YOU ARE UNSURE ABOUT SETTING CRON JOBS
+********************************************************************************
+
+
+You are able to set a cronjob for the following files/tasks:
+
+	cron.php 	  	   - Required for scheduled sending and will also eliminate
+					     server timeouts while sending mailings. 
+
+	cron_bounce.php    - Automatically runs bounced email checker. 
+						 Will only check through up to 120 messages per run.
+
+	cron_responder.php - Required for auto-responders.  
+						 (Not required for instant auto-responders)
+
+	cron_pop.php	   - For subscribe/unsubscribe by email
+
+
+--------------------------------------------------------------------------------
+Setup:
+--------------------------------------------------------------------------------
+
+1) 	Set permissions of the cron file to be usable via cron.
+		Chmod cron file to 755
+
+2) 	Ensure that the first line of the cron file is the location of php on the server.  
+		Default first line entry on this file is:
+    		 #!/usr/local/bin/php -q
+     		The /usr/local/bin/php should be the location of php
+
+3) 	Add a cron job to run the cron file as often as you require.
+	Suggested times for running cron:
+		cron.php 		every 15 minutes
+		cron_bounce.php		every 12 hrs
+		cron_responder.php	every 60 minutes
+		cron_pop.php		every 30-60 minutes
+
+
+If you are unsure how to set the cronjob to run, it is suggested to contact your
+web host or system administrator.
+You should not set your cron job to run under 5 minutes
+
+--------------------------------------------------------------------------------
+Need additional help with setting up a cron job?
+--------------------------------------------------------------------------------
+
+  We suggest to contact your web host/system admin or visit:
+	http://www.activecampaign.com/support/tt/index.php?pf=kb&page=index_v2&id=150&c=root
+
+
+--------------------------------------------------------------------------------
+  (c) 2005 ActiveCampaign, Inc. All rights reserved.  

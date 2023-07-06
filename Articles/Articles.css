@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+
+}
+.Articles {
+	width: 600px;
+}
+H1{
+	color:#000000;
+	font-size: 36px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+H2{
+	color:#000000;
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	text-align: left;
+}
+
+.text {
+	width: 600px;
+	text-align: justify;
+}

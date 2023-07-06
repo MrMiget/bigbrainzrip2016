@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Sending Engine</title>
+<meta http-equiv="Content-Type" content="text/html; charset=">
+</head>
+<frameset rows="50,50" frameborder="NO" border="0" framespacing="0"> 
+  <frame src="send_app3.php?mesg_id=&sendval=">
+  <frame src="send_app_eng.php?mesg_id=&sendval=">
+</frameset>
+<noframes> 
+<body bgcolor="#FFFFFF" text="#000000">
+</body>
+</noframes> 
+</html>

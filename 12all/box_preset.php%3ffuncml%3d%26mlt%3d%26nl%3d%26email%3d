@@ -1,0 +1,69 @@
+<link href="template/default.css" rel="stylesheet" type="text/css">
+<form name="" method="post" action="box.php">
+  <table width="100%" border="0" cellspacing="0" cellpadding="4" align="center">
+    <tr> 
+      <td colspan="2"> <b class="header">
+      Sign up  </b></td>
+    </tr>
+    <tr valign="top"> 
+      <td colspan="2"><hr width="100%" size="1" noshade></td>
+    </tr>
+    <tr valign="top">
+      <td>Your e-mail address <font color="#999999">(Required)</font></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr valign="top"> 
+      <td>
+        <input name="email" type="text" value="" size="40">        </td>
+      <td> 
+        <div align="right">
+          <input type="submit" value="Subscribe" name="submit2">
+	</div>
+      </td>
+    </tr>
+    <tr> 
+      <td colspan="2"><hr width="100%" size="1" noshade></td>
+    </tr>
+    <tr valign="top"> 
+      <td width="60%"><b class="sheader">Additional Information</b> <br>
+        <br>
+        <table width="100%" border="0" cellspacing="0" cellpadding="2">
+          
+          <tr>
+            <td width="95" height="30" valign="top">Name</td>
+            <td height="30">
+              <input type="text" name="name"></td>
+          </tr>
+                </table></td>
+      <td width="40%">
+        		<fieldset><legend class="sheader">
+		Subscribe to multiple lists</legend>      	<br>
+        <table width="100%" border="0" cellspacing="1" cellpadding="25" align="center">
+          <tr  class="rowhighlight" onmouseover="this.className='rowhighlightd'" onmouseout="this.className='rowhighlight'"> 
+                      <tr width="100%" class="rowhighlight" onmouseover="this.className='rowhighlightd'" onmouseout="this.className='rowhighlight'" style="font-size:12px;"> 
+            <div align="left">
+              <input type="checkbox" name="nlbox[1]" value="1" >
+              Free Version of Timez Attack </div>
+          </tr>
+                    <tr width="100%" class="rowhighlight" onmouseover="this.className='rowhighlightd'" onmouseout="this.className='rowhighlight'" style="font-size:12px;"> 
+            <div align="left">
+              <input type="checkbox" name="nlbox[2]" value="6" >
+              President\'s Day </div>
+          </tr>
+          </fieldset>      </table></td>
+    </tr>
+    <tr valign="top"> 
+      <td width="60%">&nbsp;</td>
+      <td width="40%">        <div align="right">
+          <p>
+            <input name="box_preset" type="hidden" id="box_preset" value="1">
+            <input type="submit" value="Subscribe" name="submit">
+            <input type="hidden" name="murl" value="">
+            <input type="hidden" name="funcml" value="add">
+            <input type="hidden" name="loc" value="">
+            		  </p>
+          </div>
+      </td>
+    </tr>
+  </table>
+</form>
